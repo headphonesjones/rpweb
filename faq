@@ -1,0 +1,639 @@
+<!doctype html>
+<head>
+	<title>RipplePop | FAQ</title>
+  <meta charset="<?php bloginfo( 'charset' ); ?>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+	<link href="styles.css" rel="stylesheet">
+	<link rel="shortcut icon" href="favicon.ico" />
+	<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1">
+	<meta name="description" content="The most frequently asked questions we get about RipplePop.">
+	<meta property="og:image" content="images/favicon-dog.png">
+	<meta property="og:image:width" content="512">
+	<meta property="og:image:height" content="512">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="RipplePop | Hire a WordPress Developer Today">
+	<meta property="og:description" content="The most frequently asked questions we get about RipplePop.">
+	<meta property="og:url" content="https://ripplepop.com/">
+	<meta property="og:site_name" content="RipplePop">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="RipplePop | Hire a WordPress Developer Today">
+	<meta name="twitter:description" content="The most frequently asked questions we get about RipplePop.">
+	<meta name="twitter:image" content="images/favicon-dog.png">
+	<meta name="twitter:image:width" content="512">
+	<meta name="twitter:image:height" content="512">
+	<link rel="canonical" href="https://ripplepop.com/">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88669181-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-88669181-1');
+  </script>
+	<!-- Meta Pixel Code -->
+	<!-- <script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '315948945547964');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=315948945547964&ev=PageView&noscript=1"
+	/></noscript> -->
+	<!-- End Meta Pixel Code -->
+</head>
+<body class="text-gray-900">
+<div class="container flex mx-auto md:px-0 px-12">
+  <div class="md:w-7/12 sm:w-10/12 pt-12 pb-12 mx-auto" id="top">
+    <h1 class="text-6xl leading-tight text-gray-900 graphik-bold text-center pb-20"><span class="graphik-regular">Frequently Asked</span> Questions</h1>
+    <p class="text-4xl text-gray-900 graphik-bold my-8">Overview</p>
+    <ul class="text-xl">
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-is-ripplepop">What is RipplePop?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-does-ripplepop-work">How does RipplePop work?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-does-ripplepop-cost">What does RipplePop cost?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#are-there-any-long-term-contracts">Are there any long term contracts?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#where-is-ripplepop-based">Where is RipplePop based?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-you-help-with-one-off-projects">Can you help with one-off projects?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-you-help-with-non-wordpress-projects">Can you help with non-WordPress projects?</a></li>
+    </ul>
+
+    <p class="text-4xl text-gray-900 graphik-bold mb-8 mt-20">Scaling</p>
+    <ul class="text-xl">
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#whats-the-advantage-of-ripplepop-over-upwork">What's the advantage of RipplePop over Upwork?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-are-the-different-ways-i-can-scale-my-ripplepop-team">What are the different ways I can scale my RipplePop team?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-white-label-my-ripplepop-team">Can I white-label my RipplePop team?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-about-the-weekends">What about the weekends?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#whats-the-difference-between-the-plans-do-hours-roll-over">What's the difference between the plans? Do hours roll-over?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-downgrade-my-plan-as-i-go-if-my-needs-change">Can I downgrade my plan as I go if my needs change?</a></li>
+    </ul>
+
+    <p class="text-4xl text-gray-900 graphik-bold mb-8 mt-20">Developers</p>
+    <ul class="text-xl">
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-do-you-vet-developers">How do you vet developers?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-soon-can-a-new-developer-get-started">How soon can a new developer get started?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-a-developer-help-with-other-types-of-tasks">Can a developer help with other types of tasks?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#do-your-developers-have-design-experience">Do your developers have design experience?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-does-a-developer-work-on-my-timezone">How does a developer work on my timezone?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-track-my-developers-time">Can I track my developer's time?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-do-a-video-or-screen-share-with-my-developer-while-they-work">Can I do a video or screen-share with my developer while they work?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-should-i-share-logins-and-passwords-with-my-developer">How should I share logins and passwords with my developer?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-do-i-submit-requests-to-my-developer">How do I submit requests to my developer?</a></li>
+    </ul>
+
+    <p class="text-4xl text-gray-900 graphik-bold mb-8 mt-20">Account</p>
+    <ul class="text-xl">
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-do-i-cancel-upgrade-downgrade-or-change-billing">How do I cancel, upgrade, downgrade, or change billing?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-is-your-refund-policy">What is your refund policy?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-pause-or-freeze-my-account-and-retain-my-developer-when-i-return">Can I pause or freeze my account and retain my developer when I return?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-if-my-developer-is-sick-or-absent">What if my developer is sick or absent?</a></li>
+      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-change-to-a-new-developer">Can I change to a new developer?</a></li>
+    </ul>
+
+    <hr class="border-t-2 border-solid border-black my-24">
+
+    <div class="faq-block" id="what-is-ripplepop">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold my-8">What is RipplePop?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Started in 2016, RipplePop is a one-stop-shop for any and all WordPress help.&nbsp;
+</p>
+<p>
+	 RipplePop gives you and your company a professional and dedicated developer for a flat weekly fee.
+</p>
+<p>
+	 A RipplePop developer works in your tools (Slack, Basecamp, Asana, anything!) and on your timezone, no matter where your businesses or customers are in the world.
+</p>
+<p>
+	 You can scale your development team up and down as needed.
+</p>
+<p>
+	 Best of all, with RipplePop you get the reliability and accountability of the RipplePop support team in Chicago.&nbsp;
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-does-ripplepop-work">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How does RipplePop work?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 We try to make the process of getting the best developer to help you as simple as possible. We will send you a list of our developers so you can see all of their different skills and proficiencies. From that list, you can sign up directly with the developer you wish to work with.
+</p>
+<p>
+	 That's it! Once you sign up, your developer will contact you within 24 hours and finalize their schedule and tasks for their first day.
+</p>
+<p>
+	 If you have any questions before getting started, just send an email to 
+	<a href="mailto:hello@ripplepop.com" class="text-blue-500 underline">hello@ripplepop.com</a> and we'll help.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="what-does-ripplepop-cost">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What does RipplePop cost?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   You can view pricing next to each developer in our developer list. To get started, leave your email and we'll share a list of our developers with you and you can get started with the one you think will work best for your scenario. 
+</p>
+<p>
+	 If you have any questions about our pricing or plans, please email us at 
+	<a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.&nbsp;
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="are-there-any-long-term-contracts">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Are there any long-term contracts?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   Our membership is week-to-week. We even offer a 7-day 100% satisfaction guarantee on our 2-hour per day plan to make it even easier for you to sign up with as little risk as possible.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="where-is-ripplepop-based">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Where is RipplePop Based?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 RipplePop is based in Chicago and our development team is based in the Philippines.&nbsp;We love our Filipino team, they are incredibly hard-working and diligent.
+</p>
+<p>
+	 We look for at least 5+ years of custom WordPress development experience along with great English skills.&nbsp;Part of our vetting process is making sure our developers have very good English comprehension and writing skills to reduce the risk of any miscommunications.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-you-help-with-one-off-projects">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can you help with one-off projects?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+<p>
+   Yes we can! However, please make sure you read our <a href="https://ripplepop.com/expectations/" target="_blank">Expectations Agreement</a> to understand more about how you might fit a project into a plan like ours which is based around adhering to strict daily hours of work (not a project scope per se).
+</p>
+<p>
+   In short, yes you can use one of our plans to complete a project. Just remember, that our plans are not bound to your project scope or deadline. If the project is not going to meet its deadline, we can not be at fault. You may just simply need to increase the number of daily hours (upgrade your plan) for your developer to better meet a deadline if things are off-track. Our developers will always do their best to help you meet your deadlines, but we are in no way bound to your deadlines or project scope.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+	  
+	  <div class="faq-block" id="can-you-help-with-non-wordpress-projects">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can you help with non-WordPress projects?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Absolutely! Many of our customers have projects ranging from Shopify to marketing to design to app development. If you'd like us to help find the perfect creative for your next project that is not WordPress related, be sure to ask at 
+	<a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="whats-the-advantage-of-ripplepop-over-upwork">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What's the advantage of RipplePop over Upwork?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   The main advantage of RipplePop is that you have a company (us) and service offering backing up our plans.&nbsp;
+</p>
+<p>
+   If an Upwork freelancer decides to leave town and not answer any emails, you are left with little that you can do and even less that you can do legally if they are an international freelancer.&nbsp;
+</p>
+<p>
+   With us, you get a company that backs the promise. If a dev is not doing a good job for you, you can quickly pick a new one on our team to work with and even provide replacement developers if your developer is sick or absent. These types of things are what make our service something you might pick over trying to go and find the perfect freelancer that you can entrust with the work you have.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="what-are-the-different-ways-i-can-scale-my-ripplepop-team">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What are the different ways I can scale my RipplePop team?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   Scaling your RipplePop team is something we wanted to make simple. There are two ways you can scale: Horizontally or Vertically. 
+  <br>
+  <br>
+  <strong>Vertically:</strong>
+</p>
+<p>
+  <strong></strong>You have a developer on a 4-hour per day or 2-hour per day plan, and you simply scale up their daily hours if they have that availability.
+</p>
+<p>
+  <b style="background-color: initial;">Horizontally:</b>
+</p>
+<p>
+   You already have a developer on another plan for 8, 4, or 2 hours per day.&nbsp;You want to add an additional/new developer to the team (maybe with different skills) on their own plan. This allows you to grow the depth of your team rather than just scaling up one person's hours.
+</p>
+<p>
+   So you can either scale up your current developer's hours or scale outwards by adding additional developers to your team.&nbsp;
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-i-white-label-my-ripplepop-team">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I white-label my RipplePop team?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Yes! Our developers are yours to use as you need. If you need a developer or team of developers to be replying directly to your clients or customers, we can supply the team to do that.&nbsp;
+</p>
+<p>
+	 You can make them their own email within your organization for them to use to white-label it even further. We try to be flexible here so you can use your developer for your specific use-case.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="what-about-the-weekends">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What about the weekends?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Our current plans only cover 5 days of work per week (Monday - Friday), however, if you are interested in getting weekend coverage, just let us know and we can talk about finding someone for weekend work if we have them available.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="whats-the-difference-between-the-plans-do-hours-roll-over">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What's the difference between the plans? Do hours roll-over?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   When you sign up for RipplePop, you are signing up for 8, 4, or 2 hours of daily help (Monday - Friday). The daily hours you receive on your plan do not roll-over if they go unused on a particular day or set of days. Since your developer may be helping other customers of ours each day, we can not roll-over hours or bundle them in any other way.
+</p>
+<p>
+  The only difference between the plans is how much daily help you will receive: 8 hours, 4 hours, or 2 hours. Everything else about the plans is the same. You can: invite your developer into your tools, ask them for help on items small or large, and no restrictions on what you can ask for just as long as it's within the developer's skillset and you are ok with the timeline that the developer provides for the work.
+</p>
+<p>
+  One thing to keep in mind if you are on a 4-hour or 2-hour per day plan is that your developer services other customers before and/or after you. So please respect their time and understand that our developers are not bound to giving you overtime work beyond their standard hours. Our support team is also available if you have any questions about our plans 
+  <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.
+</p>
+<p>
+	 Hours on either the Pro or Flex plan do not roll-over in anyway so please make sure to use up your hours before your billing cycle ends.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-i-downgrade-my-plan-as-i-go-if-my-needs-change">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I downgrade my plan as I go if my needs change?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+  You can downgrade from any plan to a lower plan if you need to do that. You can do this from within your account area on our site, or simply by emailing us at 
+  <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>. Once your plan is adjusted, your next weekly charge will go through at the new weekly rate.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-do-you-vet-developers">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How do you vet developers?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 We have a very rigorous vetting process to ensure only the best developers make it through to be on our team. 
+	<br>
+	<br>
+	<strong>Here is what is involved to become a RipplePop Developer:</strong>
+</p>
+<p>
+	<strong></strong>Our Developer Manager is responsible for finding and getting developers to start the application process.
+</p>
+<p>
+	 We run the appropriate background checks, ID checks, and English comprehension tests to ensure we can proceed with that applicant.
+</p>
+<p>
+	 The initial application is long and it takes around 45 minutes to an hour to complete. It has very specific instructions that, if not clearly followed, will result in us immediately disregarding the applicant. We ask the developer to record videos as they work and explain their reasoning and decision making as they work. This helps us judge their skills in real-world scenarios and get a feel for how they communicate through finding solutions.
+</p>
+<p>
+	 If their initial application is good, we advance them onto some tests. This includes tests for their development skills, CSS skills, and other skills relevant to the customers they plan to serve.
+</p>
+<p>
+	 If all tests go well, the candidate moves onto the final stage interview. This interview is with our most senior level developer. He has been with us for over 4 years now and been a developer for more than 10 years. He has seen everything under the sun, and we trust him deeply with being able to analyze if a developer has what it takes to be a successful developer on our team.
+</p>
+<p>
+	 If the final interview goes well and the candidate passes, they are in the pool of "ready developers" who have been approved and are waiting to be assigned to a customer that matches their skill-set.
+</p>
+<p>
+	 One of the ways we protect our customers is by having a very in-depth and thorough vetting process. This helps ensure only the most diligent, honest, knowledgeable, and reliable developers make it through.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-soon-can-a-new-developer-get-started">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How soon can a new developer get started?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 As soon as you sign up, an internal clock of ours starts ticking. Typically we have a perfect match ready for you within 24 - 48 hours of signing up depending on your specific needs.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-a-developer-help-with-other-types-of-tasks">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can a developer help with other types of tasks?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Yes! 
+	<br>
+	<br>
+	 Let's say you've set your developer up for 2-hours of work per day. Today, you have an hour of work (maybe less to give them) but you want to make sure you utilize their time. Here are your options:
+</p>
+<p>
+	 You can have the developer help with other tasks (editing spreadsheets, answering emails, tidying up work, admin work, etc) as long as they express they are comfortable working in the associated applications.
+</p>
+<p>
+	 You can always ask your developer to do more proactive work. Example: "Please review all of my sites and do a speed audit. Improve the speed of the poorest performing sites when I do not have other work to give you."
+</p>
+<p>
+	 You can always lean on your developer for some basic consulting. "What tool is best to accomplish X, Y, and Z?" "Can you highlight the best strategy to export and import thousands of custom posts and media?"
+</p>
+<p>
+	 Your developer's daily hours are yours to utilize. If the amount of dev work is light, you can always get creative with asking for help on other items as long as they are comfortable doing so.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="do-your-developers-have-design-experience">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Do your developers have design experience?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 When you sign up we connect with you to discover your exact needs. If you need a developer who has solid design skills and can whip up a page from scratch with minimal design input, we can find that developer for you.
+</p>
+<p>
+	 In short, the answer is yes, we absolutely have developers on our team who can handle design as well as development. 
+	<br>
+	<br>
+	 If you need a graphic designer outright, you can let us know as we have many great designers we can assign to you as well!
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-does-a-developer-work-on-my-timezone">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How does a developer work on my timezone?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   We were often challenged with how we should go about scheduling our developers and how we felt, morally, about asking some to work overnight/graveyard shifts due to the larger effect that has on day-to-day life. The way we corrected this and allow ourselves to sleep much easier at night is we let our developers work out their schedule with you directly and attempt to find the best agreed-upon schedule that will work for you both.
+</p>
+<p>
+   Many of our developers often prefer "off-hours" or the graveyard shift, which surprised us at first. We do not force our developers to work on schedules they have not indicated as their preference.
+</p>
+<p>
+   That way, you get a developer who is happy to be online and working with you during their preferred shift schedule. This allows you to do things like a Zoom, Skype, Google Hangouts, Slack chat, etc all while they are working. This real-time collaboration is a great way to help make sure you always have access to your developer during your daily shift schedule.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-i-track-my-developers-time">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I track my developers time?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Yes! 
+	<br>
+	<br>
+	 We have our own set of tracking and check-in tools to monitor our developers. However, if you want your developer to be reporting in a time-tracking tool that your company uses or monitors, you can absolutely do that. 
+	<br>
+	<br>
+	 Simply invite your developer (via their RipplePop or the company email you made for them) into your time tracking tool of choice. Then make sure you instruct the developer on how to properly track their time in the proper way you are looking for. 
+	<br>
+	<br>
+	 That's it! You're all set and can now track the hours of your developer.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-i-do-a-video-or-screen-share-with-my-developer-while-they-work">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I do a video or screen-share with my developer while they work?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Yes, absolutely! All of our developers will have Zoom installed and most already have Skype as well.&nbsp;
+</p>
+<p>
+	 During their shift, each day, the developer we supplied to you is yours to use as you need within their skill-set. Feel free to have a call or share your screen if you ever need to!
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-should-i-share-logins-and-passwords-with-my-developer">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How should I share logins and passwords with my developer?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	<strong>Password Managers (Tools/Services)</strong>
+</p>
+<p>
+	<strong></strong>Most agencies and people we work with are using some password manager. Whether that be LastPass, 1Password, Dashlane, etc.&nbsp;
+</p>
+<p>
+	 If this is the case for you, you can simply add your developer (via their email) to your password tool and they can install it. Then you can simply grant them access to whatever credentials you need and maintain control over their account.
+</p>
+<p>
+	<strong style="background-color: initial;">Adding Your Developer Manually to Each Site</strong>
+</p>
+<p>
+	<strong style="background-color: initial;"></strong>This can be more painstaking, but some prefer this method. Simply create a new admin user on each site where you want your developer to have access. Make sure you set their admin email to their RipplePop email or the email within your org that you created for them. That way you still have some level of admin control over them if necessary.
+</p>
+<p>
+	<strong style="background-color: initial;">Sharing Passwords - One-offs (Never share passwords in the body of an email or anywhere for that matter! Use this method!)</strong>
+</p>
+<p>
+	<strong style="background-color: initial;"></strong>Submitting passwords to us is easy and secure when you follow these easy steps.
+</p>
+<p>
+	 Go to 
+	<a href="https://1ty.me/">https://1ty.me/</a>
+</p>
+<p>
+	<a href="https://1ty.me/"></a>Enter in the site admin credentials we will use to access the site
+</p>
+<p>
+	 Click "Generate Link"
+</p>
+<p>
+	 When submitting a request for a site we have not serviced yet, append the generated link to the body of the request so we can gain immediate access
+</p>
+<p>
+	 The beauty of 
+	<a href="https://1ty.me/">https://1ty.me/</a> is that it generates a unique link to that file that only you will know. When you send it to us and we open it, the note can never be opened again by anyone else. It self destructs. And therefore makes it an extremely secure and easy way for you to share your login information with us and know it will not cause any security issues.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-do-i-submit-requests-to-my-developer">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How do I submit requests to my developer?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 Most of our customers are people or agencies who are already using a project management tool to track their work. Examples of tools we've helped with in the past include&nbsp;Basecamp, Trello, Asana, Jira, Slack, Monday, Google Docs, etc.
+</p>
+<p>
+	 One of the major benefits of our plans is that our developers come to you and your tools. So if you are using Asana to track to-do items around your site(s), you can simply invite your developer into your Asana and they can begin working through those items.&nbsp;
+</p>
+<p>
+	 We do this to allow our customers more flexibility so that they are not restricted to a specific way of submitting work to their developer.
+</p>
+<p>
+	 If you do not have a Project Management tool in place, let us know and we can always create a private shared Trello board as a starting point or you can simply request things from your developer by sending them an email if ever needed.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="how-do-i-cancel-upgrade-downgrade-or-change-billing">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How do I cancel, upgrade, downgrade, or change billing?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+	 You can access your account from 
+	<a href="https://ripplepop.com/my-account/">ripplepop.com/my-account</a>
+</p>
+<p>
+	 Once logged in, you can easily cancel your subscription and change your billing details from within the various tabs present within your account dashboard.&nbsp;
+</p>
+<p>
+	 If you'd like to upgrade or downgrade send us an email at 
+	<a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a> and we'll help make sure everything gets correctly updated.
+</p>
+<p>
+	 If you are looking to pause your work but would like to retain access to your same developer upon returning please let us know.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="what-is-your-refund-policy">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What is your refund policy?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   You can find our refund policy on our 
+  <a href="https://ripplepop.com/refunds">refunds page</a>.
+</p>
+<p>
+   If you have any questions, please email us at 
+  <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.
+</p>
+<p>
+	<strong style="background-color: initial;">Get in touch</strong>
+</p>
+<p>
+	<strong style="background-color: initial;"></strong>At the end of the day, almost everything on the edges comes down to a case-by-case basis. Send an email to <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a> and tell us what is going on.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-i-pause-or-freeze-my-account-and-retain-my-developer-when-i-return">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I pause or freeze my account and retain my developer when I return?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   Yes, if you wish to pause your billing and want to return in the future and have us retain the same developer who you were assigned, we can do that with a reduced monthly fee.
+</p>
+<p>
+   To reserve your Full-time developer (8-hours per day), the cost is $250/week.
+</p>
+<p>
+   To reserve your Part-time developer (4-hours per day), the cost is $125/week.
+</p>
+<p>
+   To reserve your Full-time developer (2-hours per day), the cost is $65/week.
+</p>
+<p>
+   If you are canceling or pausing for just a few days or one-week, oftentimes that is short enough where we can reserve your developer without much issue or need for additional charges. However, if you plan on pausing for more than a few days, you would need to pay the retainer fee to lock in the same developer and time slot when you return again.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="what-if-my-developer-is-sick-or-absent">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What if my developer is sick or absent?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+   That is the beauty of having a service/business (us!) around!
+</p>
+<p>
+   If your developer is ever sick, they will report that to our Customer Champion. Our Customer Champion then will contact you to see if there is anything urgent to attend to, or if your developer can make up their hours at a later date when they return. We always prefer the hours be made up if possible, but understand there are times when you need more urgent help and your developer might be sick or absent.
+  <br>
+  <br>
+  If your developer is unable to make up their hours, or you have something urgent that needs attending to before they can return, we can supply you with a coupon code and a list of replacements which will allow you to begin working with another developer of ours in order to keep things moving.
+  <br>
+  <br>
+   If your developer is ever sick or misses a day of work, it is not required to get a replacement. If your workload is light, you can simply let your developer have the day off if you choose. Or, if you do not want a replacement (too many cooks in the kitchen) your developer can always work out a schedule to make up the missed hours over the next couple of days. 
+  <br>
+  <br>
+   We'll always be here to help in these types of scenarios. If your developer is not reporting in for you today and you need something from them, please email us at 
+  <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a> so we can get you a replacement right away.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <div class="faq-block" id="can-i-change-to-a-new-developer">
+      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I change to a new developer?</h3>
+      <div class="faq-answer text-xl text-gray-900">
+        <p>
+  Yes and no, let us explain.
+</p>
+<p>
+  If you want to change your current developer and work with someone new (for whatever reason), the way you do that is you would set your weekly plan to expire (not-renew). Then you would revisit our Developer List we shared with you and sign up with the developer you wish to work with instead. We do not allow you to change your developer mid-week, so please make sure that if you want to work with someone else on our team, that you plan that change accordingly.
+</p>
+      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      </div>
+    </div>
+
+    <hr class="border-t-2 border-solid border-black my-24">
+
+  </div>
+</div>
+<div class="container mx-auto mt-12 mb-24">
+  <div class="md:w-10/12 w-full mx-auto">
+    <div class="w-full mx-auto bg-blue-700 p-12 mb-12 rounded-lg text-white text-center">
+      <h3 class="graphik-bold text-4xl">Take the first step with no commitment needed</h3>
+      <h4 class="text-lg leading-loose mb-12">The first step in our process is finding you the right person for your needs. Then we can get back to you with a developer perfectly matched to you before you ever need to sign up or pay.</h4>
+			<!-- Calendly link widget begin -->
+			<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+			<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+			<!-- Calendly link widget end -->
+	    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ripplepop/call?primary_color=4299e1'});return false;"><button class="xl:w-2/3 w-full px-2 py-4 text-lg graphik-bold tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl">BOOK A CALL<span class="text-sm text-center block">Let's chat about your needs</span></button></a>
+    </div>
+  </div>
+</div>
+<footer id="colophon" class="site-footer bg-gray-100 border-solid border-t-4 border-gray-300">
+	<div class="container mx-auto pt-12 pb-12">
+		<div class="md:flex block">
+			<div class="md:w-1/5 w-2/3 md:text-left text-center md:mx-0 mx-auto">
+				<a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" class="md:mx-0 mx-auto"></a>
+				<p class="text-lg leading-relaxed text-gray-600 ml-2 graphik-bold tracking-tight">💙 Proudly Made in Chicago</p>
+				<p class="text-normal leading-relaxed text-gray-600 tracking-tight text-xs mt-0 ml-2">Copyright ©2015-2022 RipplePop.</p>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto">
+				<a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">
+				<a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
+				<a href="/faq" class="text-lg leading-relaxed text-gray-900">FAQ</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
+				<a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<!-- Helpscout Beacon -->
+<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>

@@ -1,0 +1,38 @@
+@font-face {
+  font-family: graphik-bold;
+  src: url(graphik-bold.woff);
+}
+
+@font-face {
+  font-family: graphik;
+  src: url(graphik-regular.woff);
+}
+
+body{
+	font-family: 'graphik';
+}
+
+.graphik {
+    font-family: 'graphik' !important;
+}
+
+.graphik-bold {
+    font-family: 'graphik-bold' !important;
+}
+
+.underline-a a {
+	text-decoration:underline !important;
+	color:#4299e1 !important
+}
+
+button, .bg-blue-500 {
+	background-color:#01BAEF !important
+}
+
+.text-blue-500 {
+	color:#01BAEF !important
+}
+
+.border-blue-500,.hover\:border-blue-500:hover  {
+	border-color:#01BAEF !important
+}

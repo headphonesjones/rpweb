@@ -1,0 +1,74 @@
+<!doctype html>
+<head>
+	<title>RipplePop | Privacy</title>
+  <meta charset="<?php bloginfo( 'charset' ); ?>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+	<link href="styles.css" rel="stylesheet">
+	<meta name="robots" content="noindex">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88669181-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-88669181-1');
+  </script>
+	<!-- Meta Pixel Code -->
+	<!-- <script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '315948945547964');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=315948945547964&ev=PageView&noscript=1"
+	/></noscript> -->
+	<!-- End Meta Pixel Code -->
+</head>
+<body>
+<nav class="flex items-center justify-between flex-wrap px-6">
+  <div class="flex items-center flex-grow mr-6">
+    <a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" id="mainLogo"></a>
+  </div>
+</nav>
+<div class="container flex mx-auto">
+  <div class="md:w-7/12 w-10/12 pt-12 pb-32 mx-auto">
+    <a href="https://www.iubenda.com/privacy-policy/24613854" class="iubenda-white iubenda-embed iub-body-embed" title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+  </div>
+</div>
+<footer id="colophon" class="site-footer bg-gray-100 border-solid border-t-4 border-gray-300">
+	<div class="container mx-auto pt-12 pb-12">
+		<div class="md:flex block">
+			<div class="md:w-1/5 w-2/3 md:text-left text-center md:mx-0 mx-auto">
+				<a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" class="md:mx-0 mx-auto"></a>
+				<p class="text-lg leading-relaxed text-gray-600 ml-2 graphik-bold tracking-tight">💙 Proudly Made in Chicago</p>
+				<p class="text-normal leading-relaxed text-gray-600 tracking-tight text-xs mt-0 ml-2">Copyright ©2015-2022 RipplePop.</p>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto">
+				<a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">
+				<a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
+				<a href="/faq" class="text-lg leading-relaxed text-gray-900">FAQ</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
+				<a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<!-- Helpscout Beacon -->
+<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>
