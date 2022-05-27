@@ -1,26 +1,26 @@
 <!doctype html>
 <head>
 	<title>RipplePop | Hire a WordPress Developer Today</title>
-  <meta charset="<?php bloginfo( 'charset' ); ?>">
+	<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 	<link href="styles.css" rel="stylesheet">
-	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="shortcut icon" href="/favicon.ico" />
 	<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1">
-	<meta name="description" content="With RipplePop you get a professional WordPress developer hand-picked for your needs within 72 hours.">
-	<meta property="og:image" content="images/favicon-dog.png">
+	<meta name="description" content="The most frequently asked questions we get about RipplePop.">
+	<meta property="og:image" content="/images/favicon-dog.png">
 	<meta property="og:image:width" content="512">
 	<meta property="og:image:height" content="512">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="RipplePop | Hire a WordPress Developer Today">
-	<meta property="og:description" content="With RipplePop you get a professional WordPress developer hand-picked for your needs within 72 hours.">
+	<meta property="og:description" content="The most frequently asked questions we get about RipplePop.">
 	<meta property="og:url" content="https://ripplepop.com/">
 	<meta property="og:site_name" content="RipplePop">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="RipplePop | Hire a WordPress Developer Today">
-	<meta name="twitter:description" content="With RipplePop you get a professional WordPress developer hand-picked for your needs within 72 hours.">
-	<meta name="twitter:image" content="images/favicon-dog.png">
+	<meta name="twitter:description" content="The most frequently asked questions we get about RipplePop.">
+	<meta name="twitter:image" content="/images/favicon-dog.png">
 	<meta name="twitter:image:width" content="512">
 	<meta name="twitter:image:height" content="512">
 	<link rel="canonical" href="https://ripplepop.com/">
