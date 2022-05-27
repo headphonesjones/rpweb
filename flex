@@ -71,7 +71,7 @@
 			<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 			<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 			<!-- Calendly link widget end -->
-	    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ripplepop/call?primary_color=4299e1'});return false;"><button class="xl:w-2/3 w-full px-2 py-4 mt-4 text-lg graphik-bold tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl">BOOK A CALL<span class="text-sm text-center block graphik">Will Our Flex Plan Work For You?</span></button></a>
+	    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ripplepop/call?primary_color=4299e1'});return false;"><button class="xl:w-2/3 w-full px-2 py-4 mt-4 text-lg graphik-bold tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl">BOOK A CALL<span class="text-sm text-center block graphik">See if Flex is right for you</span></button></a>
 		</div>
 	  <div class="flex-1 bg-purple-700 p-12 rounded-lg text-white">
 			<p class="text-xl">"Our company worked with RipplePop for 2 years where they worked with us on over 25 different medium to large sized projects. They did some amazing work for our clients that accelerated the growth of our business."</p>
@@ -280,7 +280,7 @@
     </div>
   </div>
 	<h4 class="px-4 pt-4 text-xl graphik-bold leading-tight text-center lg:text-4xl md:text-4xl font-bold">Try RipplePop Risk-Free.<br>You'll be backed by a 14-Day Money Back Guarantee.</p>
-	<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ripplepop/call?primary_color=4299e1'});return false;"><button class="xl:w-2/3 w-full px-2 py-4 mt-8 text-lg graphik-bold tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl mb-12">BOOK A CALL<span class="text-sm text-center block">Let's chat about your needs</span></button></a>
+	<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ripplepop/call?primary_color=4299e1'});return false;"><button class="xl:w-2/3 w-full px-2 py-4 mt-8 text-lg graphik-bold tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl mb-12">BOOK A CALL<span class="text-sm text-center block graphik">See if Flex is right for you</span></button></a>
 </section>
 <footer id="colophon" class="site-footer bg-gray-100 border-solid border-t-4 border-gray-300">
 	<div class="container mx-auto pt-12 pb-12">
