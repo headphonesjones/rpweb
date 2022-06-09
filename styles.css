@@ -36,3 +36,7 @@ button, .bg-blue-500 {
 .border-blue-500,.hover\:border-blue-500:hover  {
 	border-color:#01BAEF !important
 }
+
+.faq p{
+	margin-bottom: 24px;
+}

@@ -52,7 +52,7 @@
 	/></noscript> -->
 	<!-- End Meta Pixel Code -->
 </head>
-<body class="text-gray-900">
+<body class="text-gray-900 faq">
 <div class="container flex mx-auto md:px-0 px-12">
   <div class="md:w-7/12 sm:w-10/12 pt-12 pb-12 mx-auto" id="top">
     <h1 class="text-6xl leading-tight text-gray-900 graphik-bold text-center pb-20"><span class="graphik-regular">Frequently Asked</span> Questions</h1>
@@ -279,7 +279,7 @@
   <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.
 </p>
 <p>
-	 Hours on either the Pro or Flex plan do not roll-over in anyway so please make sure to use up your hours before your billing cycle ends.
+	 NEW!! With RipplePop Flow your hours can now roll-over! We've created an add-on for all RipplePop plans that lets any of your unused hours roll-over week to week. To learn more, book a call on our homepage.
 </p>
       <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
       </div>
