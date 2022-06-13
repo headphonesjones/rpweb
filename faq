@@ -53,6 +53,11 @@
 	<!-- End Meta Pixel Code -->
 </head>
 <body class="text-gray-900 faq">
+<nav class="flex items-center justify-between flex-wrap px-6">
+  <div class="flex items-center flex-grow mr-6">
+    <a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" id="mainLogo"></a>
+  </div>
+</nav>
 <div class="container flex mx-auto md:px-0 px-12">
   <div class="md:w-7/12 sm:w-10/12 pt-12 pb-12 mx-auto" id="top">
     <h1 class="text-6xl leading-tight text-gray-900 graphik-bold text-center pb-20"><span class="graphik-regular">Frequently Asked</span> Questions</h1>
