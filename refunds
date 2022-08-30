@@ -1,0 +1,97 @@
+<!doctype html>
+<head>
+	<title>RipplePop | Privacy</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+	<link href="styles.css" rel="stylesheet">
+	<meta name="robots" content="noindex">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88669181-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-88669181-1');
+  </script>
+	<!-- Meta Pixel Code -->
+	<!-- <script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '315948945547964');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=315948945547964&ev=PageView&noscript=1"
+	/></noscript> -->
+	<!-- End Meta Pixel Code -->
+</head>
+<body>
+<nav class="flex items-center justify-between flex-wrap px-6">
+  <div class="flex items-center flex-grow mr-6">
+    <a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" id="mainLogo"></a>
+  </div>
+</nav>
+<div class="container flex mx-auto">
+	<div class="md:w-7/12 sm:w-10/12 pt-12 pb-32 mx-auto md:px-0 px-12 underline-a">
+	    <h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">What is your refund policy?</h1>
+		<p class="text-2xl text-gray-900 mt-8 underline-a">If you were just charged within the last 1 day for your next week of RipplePop, but you forgot to cancel before the charge. We are happy to refund you.<br><br>If you are leaving us during your initial 7-Day Satisfaction Guarantee period of your first Pro 2-Hours a Day Plan with us, we'll happily refund you.<br><br>If we had extended downtime (developer sick or absent without a replacement), we'll issue a partial refund or move forward your next billing date to accommodate for the downtime.</p>
+	    <p class="text-2xl text-gray-900 graphik-bold mt-8 underline-a">During your first 7 days (7-Day Satisfaction Guarantee) on your first 2-Hour a Day plan with us:</p>
+	    <ol class="text-xl list-decimal ml-8 mt-4">
+	      <li>Want to try a different Developer? No problem! We can swap a new Developer in who might be a better fit for you.</li>
+	      <li class="mt-4">Rather walk away? We will refund you every penny if we are not a good fit. Simple as that.</li>
+	    </ol>
+	    <p class="text-2xl text-gray-900 graphik-bold mt-8 underline-a">After your first 7 days:</p>
+	    <ol class="text-xl list-decimal ml-8 mt-4">
+	      <li>We can always try a new or different Developer at any time during your plan. Want to swap a new one in? No problem! Just let us know and we can take care of it.</li>
+	      <li class="mt-4">If you have used your Developer more than the intial 7-day period, we will no longer offer a refund. At this point into the relationship, we hope that you already know if your Developer is going to be a great fit or not.</li>
+	    </ol>
+		<p class="text-2xl text-gray-900 graphik-bold mt-8 underline-a">We do not give refunds for the following:</p>
+	    <ol class="text-xl list-decimal ml-8 mt-4">
+	      <li>If you brought us on to help you with a project or work with a deadline, and the work was not completed by the deadline, and you are outside of your 7-day Satisfaction Gaurantee, we will not honor a refund.</li>
+	      <li class="mt-4">If we credit your account with free days of work, by pushing back your billing date, we will not honor a refund for the original charge.</li>
+			<li class="mt-4">If you purchased a Black Friday / Cyber Monday discounted plan.</li>
+	    </ol>
+		<p class="text-xl text-gray-900 mt-8 underline-a">
+			In addition to the refund policy, please make sure to read our <a href="/web/20210624024606/https://ripplepop.com/expectations" class="text-blue-500">Expectations Agreement</a> and <a href="/web/20210624024606/https://ripplepop.com/expectations" class="text-blue-500">Terms</a> in full.
+		</p>
+	</div>
+</div>
+<footer id="colophon" class="site-footer bg-gray-100 border-solid border-t-4 border-gray-300">
+	<div class="container mx-auto pt-12 pb-12">
+		<div class="md:flex block">
+			<div class="md:w-1/5 w-2/3 md:text-left text-center md:mx-0 mx-auto">
+				<a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" class="md:mx-0 mx-auto"></a>
+				<p class="text-lg leading-relaxed text-gray-600 ml-2 graphik-bold tracking-tight">💙 Proudly Made in Chicago</p>
+				<p class="text-normal leading-relaxed text-gray-600 tracking-tight text-xs mt-0 ml-2">Copyright ©2015-2022 RipplePop.</p>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto">
+				<a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">
+				<a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
+				<a href="/faq" class="text-lg leading-relaxed text-gray-900">FAQ</a>
+			</div>
+			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
+				<a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<!-- Fathom - beautiful, simple website analytics -->
+<script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
+<!-- / Fathom -->
+<!-- Helpscout Beacon -->
+<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>
