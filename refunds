@@ -43,8 +43,8 @@
 <div class="container flex mx-auto">
 	<div class="md:w-7/12 sm:w-10/12 pt-12 pb-32 mx-auto md:px-0 px-12 underline-a">
 	  <h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">What is your refund policy?</h1>
-		<p class="text-2xl text-gray-900 mt-8 underline-a">If you were just charged within the last 1 day for your next week of RipplePop, but you forgot to cancel before the charge. We are happy to refund you.<br><br>If you are leaving us during your initial 7-Day Satisfaction Guarantee period of your first Pro 2-Hours a Day Plan with us, we'll happily refund you.<br><br>If we had extended downtime (developer sick or absent without a replacement), we'll issue a partial refund or move forward your next billing date to accommodate for the downtime.</p>
-	    <p class="text-2xl text-gray-900 graphik-bold mt-8 underline-a">During your first 7 days (7-Day Satisfaction Guarantee) on your first 2-Hour a Day plan with us:</p>
+		<p class="text-2xl text-gray-900 mt-8 underline-a">If you were just charged within the last 1 day for your next week of RipplePop, but you forgot to cancel before the charge. We are happy to refund you.<br><br>If you are leaving us during your initial 7-Day Satisfaction Guarantee period of your first plan with us, we'll happily refund you.<br><br>If we had extended downtime (developer sick or absent without a replacement), we'll issue a partial refund or move forward your next billing date to accommodate for the downtime.</p>
+	    <p class="text-2xl text-gray-900 graphik-bold mt-8 underline-a">During your first 7 days (7-Day Satisfaction Guarantee) on your first plan with us:</p>
 	    <ol class="text-xl list-decimal ml-8 mt-4">
 	      <li>Want to try a different Developer? No problem! We can swap a new Developer in who might be a better fit for you.</li>
 	      <li class="mt-4">Rather walk away? We will refund you every penny if we are not a good fit. Simple as that.</li>
