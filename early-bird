@@ -24,7 +24,9 @@
   </div>
 </nav>
 <div class="container mx-auto">
-  <img src="images/bfbs.png" class="w-full h-auto mx-auto mb-24" />
+	<img src="images/8.png" class="w-56 h-auto mx-auto mt-12 mb-12" />
+  <p class="text-center font-4xl graphik-bold">Remaining</p>
+  <img src="images/bfbs.png" class="w-full h-auto mx-auto mb-24 mt-24" />
 </div>
 <footer id="colophon" class="site-footer bg-gray-100 border-solid border-t-4 border-gray-300">
 	<div class="container mx-auto pt-12 pb-12">
