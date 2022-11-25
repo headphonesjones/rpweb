@@ -25,7 +25,7 @@
 </nav>
 <div class="container mx-auto">
   <p class="text-center text-4xl graphik-bold">Only</p>
-	<img src="images/5.png" class="w-40 h-auto mx-auto" />
+	<img src="images/4.png" class="w-40 h-auto mx-auto" />
   <p class="text-center text-4xl graphik-bold">Remaining</p>
   <img src="images/ebbfrp.jpg" class="w-full h-auto mx-auto mb-24 mt-12" />
 </div>
