@@ -1,10 +1,11 @@
 <!doctype html>
+
 <head>
   <title>RipplePop | ToS</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="js/tailwind.js"></script>
-	<meta name="robots" content="noindex">
+  <meta name="robots" content="noindex">
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKQ2BXKXV7"></script>
@@ -15,8 +16,8 @@
 
     gtag('config', 'G-ZKQ2BXKXV7');
   </script>
-	<!-- Meta Pixel Code -->
-	<!-- <script>
+  <!-- Meta Pixel Code -->
+  <!-- <script>
 	!function(f,b,e,v,n,t,s)
 	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -31,115 +32,211 @@
 	<noscript><img height="1" width="1" style="display:none"
 	src="https://www.facebook.com/tr?id=315948945547964&ev=PageView&noscript=1"
 	/></noscript> -->
-	<!-- End Meta Pixel Code -->
+  <!-- End Meta Pixel Code -->
 </head>
+
 <body>
-<nav class="flex flex-wrap items-center justify-between px-6">
-  <div class="flex items-center flex-grow mr-6">
-    <a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" id="mainLogo"></a>
-  </div>
-</nav>
-<div class="container flex px-12 mx-auto md:px-0">
-  <div class="pt-12 pb-32 mx-auto md:w-7/12 sm:w-10/12 underline-a">
-    <h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">Terms of Service</h1>
-    <p class="mt-2 text-xl leading-relaxed text-gray-900 underline-a">
-      From everyone at RipplePop, thank you for using our services! Our goal has always been to provide you with the best work we can. We have grown quite a bit since our early days, and with our inability to know every one of our customers personally, we have to put in place some Terms of Service to help keep things clear for everyone.<br /><br />
- 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to RipplePop LLC. When we say “contractor” in this document, we are referring to our internal RipplePop team members and contractors. When we say “you” in this document we are referring to you, the customer purchasing our Services. <br /><br />
- 
-When we say “Services”, we mean any product created and or maintained by RipplePop LLC. That includes all past RipplePop plans which may no longer be actively listed on our website. <br /><br />
- 
-When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true for any of our existing and future products and all variations that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or position. These terms do contain a limitation for our liability. <br /><br />
- 
-If you violate any of the terms, we may terminate your account. We also reserve the right to terminate your account at any time and for any reason. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about who we are, how we work, and always being open to your feedback. 
-    </p>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">General Terms</p>
-    <ol class="mt-4 ml-8 text-xl list-decimal">
-      <li>You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.</li>
-      <li>You may not use the Services for any purpose than outlined in our Terms below.</li>
-      <li>You are responsible for all changes to your account. That includes: upgrading your Service, downgrading your Service, or canceling your Service. </li>
-      <li>You are strictly forbidden from contacting any developer within our network for employment or contracts outside of RipplePop's knowledge and oversight. Contracting or paying our team for work completed outside the service offering from RipplePop will result in a fine equal to the yearly salary of that RipplePop team member.</li>
-      <li>Each provision of this Agreement will be considered severable, such that if any one provision or clause conflicts with existing or future applicable law or may not be given full effect because of such law, no other provision that can operate without the conflicting provision or clause will be affected.</li>
-		<li>By agreeing to our terms of service you are also acknowledging that you have read and agree to our <a href="/expectations" target="_blank" class="text-blue-500" style="color: #4299e1 !important;">Expectations Agreement</a> and <a href="refunds" target="_blank" class="text-blue-500" style="color: #4299e1 !important;">Refund Policy</a> as well as the terms listed here in this document.</li>
-    </ol>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Our Duties and Responsibilities</p>
-    <ol class="mt-4 ml-8 text-xl list-decimal">
-      <li>Recruit, screen, interview, and assign a RipplePop contractor to perform the type of work within their discipline under the client's supervision; </li>
-      <li>Pay RipplePop contractor's fees and cover work-related expenses. </li>
-      <li>RipplePop contractors acknowledge that they are not entitled to holidays, vacations, disability benefits, insurance, pensions, or retirement plans, or any other benefits offered or provided by the client; and </li>
-      <li>RipplePop contractors acknowledge that they are not entitled to holidays, vacations, disability benefits, insurance, pensions, or retirement plans, or any other benefits offered or provided by the client; and  </li>
-      <li>RipplePop will provide and replace a RipplePop contractor upon the customer's request  </li>
-    </ol>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Payment, Refunds, and Plan Changes</p>
-    <ol class="mt-4 ml-8 text-xl list-decimal">
-      <li>For paid Services that offer a free trial, we explain the length of the trial when you sign up. After that trial period, you need to pay by the completion of the trial to keep using the Service. If you do not pay, you will no longer have access to the Service until you make your payment. If you have utilized a trial in the past, you will not be eligible for a trial on the same Service offering again in the future.</li>
-      <li>For paid Services, you will pay RipplePop at the rates set forth via our active pricing plans on our website. Payment is due upon registration for an account and will be billed for on a weekly basis. </li>
-      <li>For paid Services that involve a daily hour cap for RipplePop contractors, any unused hours do not roll over and can not be utilized at a later date.</li>
-      <li>For paid Services that involve a weekly hour cap for RipplePop contractors, you may not request more than 8 hours of work from your RipplePop contractor in a particular day. Any unused hours, that were purchased in bulk at the onset of the Service, do not carry over to the next month of the Service. From the day you register for your bulk hours, you have one month to use those hours before they expire. You will schedule the hours throughout the month with your RipplePop contractor. </li>
-      <li>RipplePop contractor are presumed to be nonexempt from laws requiring premium pay for overtime, holiday work, or weekend work. RipplePop will charge the client special rates for premium work time only when a RipplePop contractor’s work on assignment to the client, viewed by itself, would legally require premium pay and the client has authorized, directed, or allowed the RipplePop contractor to work such premium work time. The client's special billing rate for premium hours will be a flat fee of $50 an hour for any overtime, holiday work, or weekend work that falls outside of the standard hours of the employment agreement.</li>
-      <li>You have read and agree that you understand our <a href="/refunds" class="text-blue-500" target="_blank">Refund Policy</a> and how it may relate to your particular product choice.</li>
-      <li>All RipplePop contractors are subject to RipplePop's standard USA holidays and days off assigned by RipplePop.</li>
-      <li>If the client uses the services of any RipplePop contractor as its direct employee, as an independent contractor, or through any firm other than RipplePop during an active RipplePop plan or 365 days after cancellation of the RipplePop contractor to the client from RipplePop, the client must pay RipplePop a fee in the amount of the yearly RipplePop salary for that employee.</li>
-      <li>If your payment is late or overdue, we will give you up to 3 business days of additional service while you finalize your payment. If your payment does not arrive within 3 business days of it being overdue, your plan will be paused and all work will halt until you have made your payment current.</li>
-		<li>If you ever wish to change the plan you are on, you can contact us: <a href="mailto:hello@ripplepop.com" class="text-blue-500">hello@ripplepop.com</a>. Changes to your plan often involve a pro-ration of charges but can be handled on an individual basis depending on the scenario. You are allowed to upgrade/downgrade your service once per month with an active plan.</li>
-    </ol>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Non-Compete & Cooperation</p>
-    <ul class="mt-4 ml-8 text-xl list-disc">
-      <li>RipplePop contractors are assigned to work for you. You can not under any circumstances, sell or staff RipplePop's contractors as if they were your own team members.</li>
-      <li>RipplePop contractors are restricted from contacting any of your customers regarding any outside work other than what was assigned to the RipplePop contractor directly from you. This means, you will be the point of contact for the RipplePop contractor. If you want your RipplePop contractor replying directly to your customers, you may do that as long as the RipplePop contractor expresses their consent.</li>
-      <li>RipplePop shall not solicit or contact any user, account, or related parties without your prior written consent. This means, if you are using RipplePop to get work done for clients you manage RipplePop will not and can not contact or approach your clients. Your clients are your clients, and we forbid RipplePop contractors from making contact with your clients without your explicit written consent to do so. If you want to connect us with a friend or someone who may be interested in our services, that is allowed.</li>
-      <li>RipplePop can not claim any work that has been completed by the RipplePop contractor as our own. The work we complete for you under our Services is under your ownership and RipplePop claims not right to ownership of any of the Services rendered. This simply means you will not see us talking with anyone else about the work we have done for you, that work is confidential and RipplePop nor its contractors have ownership over the work rendered, you do. We may share your testimonial on our site if you permit us to.</li>
-      <li>Both parties agree to cooperate fully and to provide assistance to the other part in the instance of an investigation and resolution of any complaints, claims, actions, or proceedings that may be brought by or that may involve RipplePop or its contractors. </li>
-    </ul>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Extended Employment and Pay Raises</p>
-    <ul class="mt-4 ml-8 text-xl list-disc">
-      <li>We have a lot of customers who stay with us for months on end, if not longer. If you are with us, and the same RipplePop contractor for 6 months or more, you can opt-in to giving your RipplePop contractor a raise. A raise equates to a $100/mo fee on top of your existing Service charge. This extra fee goes directly into the pocket of your RipplePop contractor and is a great way for you to reward a RipplePop contractor for their extended efforts with you. We can always work out a custom raise amount and we will contact you with regards to this raise after you have been with us for 6 months or more with the same active Service.</li>
-    </ul>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Swaps and Changes to Your Team</p>
-    <ul class="mt-4 ml-8 text-xl list-disc">
-      <li>In order to swap in a new developer and replace your existing one, you must first cancel your plan with your existing developer. Then pick the replacement developer you wish to work with from our Developer List and you can begin on a new plan with them.</li>
-    </ul>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Liability</p>
-    <p class="mt-4 text-xl">
-      We mention liability throughout these Terms but to put it all in one section:<br /><br />
- 
-You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to this Terms of Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability.<br /><br />
- 
-In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general giving a damn. If you choose to use our Services, thank you for betting on us.<br /><br />
- 
-Neither party will be responsible for failure or delay in the performance of this Agreement if the failure or delay is due to labor disputes, strikes, fire, riot, war, terrorism, acts of God, or any other causes beyond the control of the nonperforming party.<br /><br />
- 
-		If you have a question about any of the Terms of Service, please contact our Support team: <a href="mailto:hello@ripplepop.com" class="text-blue-500">hello@ripplepop.com</a>.
+  <header class="container absolute inset-x-0 top-0 z-50 flex items-center justify-between px-8 mx-auto max-w-7xl">
+    <img src="img/ripplepop-logo.svg" alt="RipplePop Logo" class="w-64 h-auto">
+    <div class="text-lg">
+      <!-- <a href="#pricing">Pricing</a> -->
+      <a href="https://calendly.com/ripplepop/call" target="_blank"
+        class="rounded-md bg-sky-500 px-3.5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-sky-400">Book a
+        Call</a>
+    </div>
+  </header>
+  <div class="container flex px-12 mx-auto md:px-0">
+    <div class="pt-12 pb-32 mx-auto md:w-7/12 sm:w-10/12 underline-a">
+      <h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">Terms of Service</h1>
+      <p class="mt-2 text-xl leading-relaxed text-gray-900 underline-a">
+        From everyone at RipplePop, thank you for using our services! Our goal has always been to provide you with the
+        best work we can. We have grown quite a bit since our early days, and with our inability to know every one of
+        our customers personally, we have to put in place some Terms of Service to help keep things clear for
+        everyone.<br /><br />
 
-    </p>
-	  <p class="mt-8 text-2xl text-gray-900 graphik-bold">Legal Fees</p> 
-	  <ul class="mt-4 ml-8 text-xl list-disc">
-		  <li>All reasonable legal fees and related expenses (including costs of experts, evidence and counsel) paid or incurred by RipplePop pursuant to any claim, dispute or question of interpretation relating to this Agreement shall be paid or reimbursed by the Client Company if RipplePop is successful on the merits pursuant to a legal judgment or arbitration.</li>
-	  </ul>
-    <p class="mt-8 text-2xl text-gray-900 graphik-bold">Term of Agreement</p>
-    <p class="mt-2 text-xl leading-relaxed text-gray-900">This Agreement will be active from the first date on which the client registers for a RipplePop plan.</p>
+        When we say “Company”, “we”, “our”, or “us” in this document, we are referring to RipplePop LLC. When we say
+        “contractor” in this document, we are referring to our internal RipplePop team members and contractors. When we
+        say “you” in this document we are referring to you, the customer purchasing our Services. <br /><br />
 
+        When we say “Services”, we mean any product created and or maintained by RipplePop LLC. That includes all past
+        RipplePop plans which may no longer be actively listed on our website. <br /><br />
+
+        When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true
+        for any of our existing and future products and all variations that we add to our Services over time. There may
+        be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are
+        not waiving that right or position. These terms do contain a limitation for our liability. <br /><br />
+
+        If you violate any of the terms, we may terminate your account. We also reserve the right to terminate your
+        account at any time and for any reason. That’s a broad statement and it means you need to place a lot of trust
+        in us. We do our best to deserve that trust by being open about who we are, how we work, and always being open
+        to your feedback.
+      </p>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">General Terms</p>
+      <ol class="mt-4 ml-8 text-xl list-decimal">
+        <li>You are responsible for maintaining the security of your account and password. The Company cannot and will
+          not be liable for any loss or damage from your failure to comply with this security obligation.</li>
+        <li>You may not use the Services for any purpose than outlined in our Terms below.</li>
+        <li>You are responsible for all changes to your account. That includes: upgrading your Service, downgrading your
+          Service, or canceling your Service. </li>
+        <li>You are strictly forbidden from contacting any developer within our network for employment or contracts
+          outside of RipplePop's knowledge and oversight. Contracting or paying our team for work completed outside the
+          service offering from RipplePop will result in a fine equal to the yearly salary of that RipplePop team
+          member.</li>
+        <li>Each provision of this Agreement will be considered severable, such that if any one provision or clause
+          conflicts with existing or future applicable law or may not be given full effect because of such law, no other
+          provision that can operate without the conflicting provision or clause will be affected.</li>
+        <li>By agreeing to our terms of service you are also acknowledging that you have read and agree to our <a
+            href="/expectations" target="_blank" class="text-blue-500" style="color: #4299e1 !important;">Expectations
+            Agreement</a> and <a href="refunds" target="_blank" class="text-blue-500"
+            style="color: #4299e1 !important;">Refund Policy</a> as well as the terms listed here in this document.</li>
+      </ol>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Our Duties and Responsibilities</p>
+      <ol class="mt-4 ml-8 text-xl list-decimal">
+        <li>Recruit, screen, interview, and assign a RipplePop contractor to perform the type of work within their
+          discipline under the client's supervision; </li>
+        <li>Pay RipplePop contractor's fees and cover work-related expenses. </li>
+        <li>RipplePop contractors acknowledge that they are not entitled to holidays, vacations, disability benefits,
+          insurance, pensions, or retirement plans, or any other benefits offered or provided by the client; and </li>
+        <li>RipplePop contractors acknowledge that they are not entitled to holidays, vacations, disability benefits,
+          insurance, pensions, or retirement plans, or any other benefits offered or provided by the client; and </li>
+        <li>RipplePop will provide and replace a RipplePop contractor upon the customer's request </li>
+      </ol>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Payment, Refunds, and Plan Changes</p>
+      <ol class="mt-4 ml-8 text-xl list-decimal">
+        <li>For paid Services that offer a free trial, we explain the length of the trial when you sign up. After that
+          trial period, you need to pay by the completion of the trial to keep using the Service. If you do not pay, you
+          will no longer have access to the Service until you make your payment. If you have utilized a trial in the
+          past, you will not be eligible for a trial on the same Service offering again in the future.</li>
+        <li>For paid Services, you will pay RipplePop at the rates set forth via our active pricing plans on our
+          website. Payment is due upon registration for an account and will be billed for on a weekly basis. </li>
+        <li>For paid Services that involve a daily hour cap for RipplePop contractors, any unused hours do not roll over
+          and can not be utilized at a later date.</li>
+        <li>For paid Services that involve a weekly hour cap for RipplePop contractors, you may not request more than 8
+          hours of work from your RipplePop contractor in a particular day. Any unused hours, that were purchased in
+          bulk at the onset of the Service, do not carry over to the next month of the Service. From the day you
+          register for your bulk hours, you have one month to use those hours before they expire. You will schedule the
+          hours throughout the month with your RipplePop contractor. </li>
+        <li>RipplePop contractor are presumed to be nonexempt from laws requiring premium pay for overtime, holiday
+          work, or weekend work. RipplePop will charge the client special rates for premium work time only when a
+          RipplePop contractor’s work on assignment to the client, viewed by itself, would legally require premium pay
+          and the client has authorized, directed, or allowed the RipplePop contractor to work such premium work time.
+          The client's special billing rate for premium hours will be a flat fee of $50 an hour for any overtime,
+          holiday work, or weekend work that falls outside of the standard hours of the employment agreement.</li>
+        <li>You have read and agree that you understand our <a href="/refunds" class="text-blue-500"
+            target="_blank">Refund Policy</a> and how it may relate to your particular product choice.</li>
+        <li>All RipplePop contractors are subject to RipplePop's standard USA holidays and days off assigned by
+          RipplePop.</li>
+        <li>If the client uses the services of any RipplePop contractor as its direct employee, as an independent
+          contractor, or through any firm other than RipplePop during an active RipplePop plan or 365 days after
+          cancellation of the RipplePop contractor to the client from RipplePop, the client must pay RipplePop a fee in
+          the amount of the yearly RipplePop salary for that employee.</li>
+        <li>If your payment is late or overdue, we will give you up to 3 business days of additional service while you
+          finalize your payment. If your payment does not arrive within 3 business days of it being overdue, your plan
+          will be paused and all work will halt until you have made your payment current.</li>
+        <li>If you ever wish to change the plan you are on, you can contact us: <a href="mailto:hello@ripplepop.com"
+            class="text-blue-500">hello@ripplepop.com</a>. Changes to your plan often involve a pro-ration of charges
+          but can be handled on an individual basis depending on the scenario. You are allowed to upgrade/downgrade your
+          service once per month with an active plan.</li>
+      </ol>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Non-Compete & Cooperation</p>
+      <ul class="mt-4 ml-8 text-xl list-disc">
+        <li>RipplePop contractors are assigned to work for you. You can not under any circumstances, sell or staff
+          RipplePop's contractors as if they were your own team members.</li>
+        <li>RipplePop contractors are restricted from contacting any of your customers regarding any outside work other
+          than what was assigned to the RipplePop contractor directly from you. This means, you will be the point of
+          contact for the RipplePop contractor. If you want your RipplePop contractor replying directly to your
+          customers, you may do that as long as the RipplePop contractor expresses their consent.</li>
+        <li>RipplePop shall not solicit or contact any user, account, or related parties without your prior written
+          consent. This means, if you are using RipplePop to get work done for clients you manage RipplePop will not and
+          can not contact or approach your clients. Your clients are your clients, and we forbid RipplePop contractors
+          from making contact with your clients without your explicit written consent to do so. If you want to connect
+          us with a friend or someone who may be interested in our services, that is allowed.</li>
+        <li>RipplePop can not claim any work that has been completed by the RipplePop contractor as our own. The work we
+          complete for you under our Services is under your ownership and RipplePop claims not right to ownership of any
+          of the Services rendered. This simply means you will not see us talking with anyone else about the work we
+          have done for you, that work is confidential and RipplePop nor its contractors have ownership over the work
+          rendered, you do. We may share your testimonial on our site if you permit us to.</li>
+        <li>Both parties agree to cooperate fully and to provide assistance to the other part in the instance of an
+          investigation and resolution of any complaints, claims, actions, or proceedings that may be brought by or that
+          may involve RipplePop or its contractors. </li>
+      </ul>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Extended Employment and Pay Raises</p>
+      <ul class="mt-4 ml-8 text-xl list-disc">
+        <li>We have a lot of customers who stay with us for months on end, if not longer. If you are with us, and the
+          same RipplePop contractor for 6 months or more, you can opt-in to giving your RipplePop contractor a raise. A
+          raise equates to a $100/mo fee on top of your existing Service charge. This extra fee goes directly into the
+          pocket of your RipplePop contractor and is a great way for you to reward a RipplePop contractor for their
+          extended efforts with you. We can always work out a custom raise amount and we will contact you with regards
+          to this raise after you have been with us for 6 months or more with the same active Service.</li>
+      </ul>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Swaps and Changes to Your Team</p>
+      <ul class="mt-4 ml-8 text-xl list-disc">
+        <li>In order to swap in a new developer and replace your existing one, you must first cancel your plan with your
+          existing developer. Then pick the replacement developer you wish to work with from our Developer List and you
+          can begin on a new plan with them.</li>
+      </ul>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Liability</p>
+      <p class="mt-4 text-xl">
+        We mention liability throughout these Terms but to put it all in one section:<br /><br />
+
+        You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any
+        third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary
+        damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible
+        losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or
+        the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from
+        any goods, data, information or services purchased or obtained or messages received or transactions entered into
+        through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv)
+        statements or conduct of any third party on the service; (v) or any other matter relating to this Terms of
+        Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive),
+        or any other theory of liability.<br /><br />
+
+        In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out,
+        that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the
+        business; investments in security, infrastructure, and talent; and in general giving a damn. If you choose to
+        use our Services, thank you for betting on us.<br /><br />
+
+        Neither party will be responsible for failure or delay in the performance of this Agreement if the failure or
+        delay is due to labor disputes, strikes, fire, riot, war, terrorism, acts of God, or any other causes beyond the
+        control of the nonperforming party.<br /><br />
+
+        If you have a question about any of the Terms of Service, please contact our Support team: <a
+          href="mailto:hello@ripplepop.com" class="text-blue-500">hello@ripplepop.com</a>.
+
+      </p>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Legal Fees</p>
+      <ul class="mt-4 ml-8 text-xl list-disc">
+        <li>All reasonable legal fees and related expenses (including costs of experts, evidence and counsel) paid or
+          incurred by RipplePop pursuant to any claim, dispute or question of interpretation relating to this Agreement
+          shall be paid or reimbursed by the Client Company if RipplePop is successful on the merits pursuant to a legal
+          judgment or arbitration.</li>
+      </ul>
+      <p class="mt-8 text-2xl text-gray-900 graphik-bold">Term of Agreement</p>
+      <p class="mt-2 text-xl leading-relaxed text-gray-900">This Agreement will be active from the first date on which
+        the client registers for a RipplePop plan.</p>
+
+    </div>
   </div>
-</div>
-<footer class="bg-gray-100 border-t-2 border-gray-300 border-solid">
+  <footer class="bg-gray-100 border-t-2 border-gray-300 border-solid">
     <div class="px-6 py-12 mx-auto max-w-7xl md:flex md:items-center md:justify-between lg:px-8">
       <div class="flex flex-wrap justify-center space-x-12 md:order-2">
         <a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
         <a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
-        <a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>       
+        <a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
       </div>
       <div class="mt-8 md:order-1 md:mt-0">
         <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;"
-          class="mx-auto md:mx-0"></a>
+            class="mx-auto md:mx-0"></a>
         <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2023 RipplePop, LLC</p>
-        <p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made in Chicago</p>
+        <p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made in
+          Chicago</p>
       </div>
     </div>
   </footer>
-</div><!-- #page -->
-<!-- Fathom - beautiful, simple website analytics -->
-<script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
-<!-- / Fathom -->
-<!-- Helpscout Beacon -->
-<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
-<script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>
+  </div><!-- #page -->
+  <!-- Fathom - beautiful, simple website analytics -->
+  <script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
+  <!-- / Fathom -->
+  <!-- Helpscout Beacon -->
+  <script
+    type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
+  <script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>

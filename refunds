@@ -1,20 +1,21 @@
 <!doctype html>
+
 <head>
 	<title>RipplePop | Privacy</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="js/tailwind.js"></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="js/tailwind.js"></script>
 	<meta name="robots" content="noindex">
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKQ2BXKXV7"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKQ2BXKXV7"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
 
-    gtag('config', 'G-ZKQ2BXKXV7');
-  </script>
+		gtag('config', 'G-ZKQ2BXKXV7');
+	</script>
 	<!-- Meta Pixel Code -->
 	<!-- <script>
 	!function(f,b,e,v,n,t,s)
@@ -33,53 +34,76 @@
 	/></noscript> -->
 	<!-- End Meta Pixel Code -->
 </head>
+
 <body>
-<nav class="flex flex-wrap items-center justify-between px-6">
-  <div class="flex items-center flex-grow mr-6">
-    <a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" id="mainLogo"></a>
-  </div>
-</nav>
-<div class="container flex mx-auto">
-	<div class="px-12 pt-12 pb-32 mx-auto md:w-7/12 sm:w-10/12 md:px-0 underline-a">
-	  <h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">What is your refund policy?</h1>
-		<p class="mt-8 text-2xl text-gray-900 underline-a">If you were just charged within the last 1 day for your next week of RipplePop, but you forgot to cancel before the charge. We are happy to refund you.<br><br>If you are leaving us during your initial 7-Day Satisfaction Guarantee period of your first plan with us, we'll happily refund you.<br><br>If we had extended downtime (developer sick or absent without a replacement), we'll issue a partial refund or move forward your next billing date to accommodate for the downtime.</p>
-	    <p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">During your first 7 days (7-Day Satisfaction Guarantee) on your first plan with us:</p>
-	    <ol class="mt-4 ml-8 text-xl list-decimal">
-	      <li>Want to try a different Developer? No problem! We can swap a new Developer in who might be a better fit for you.</li>
-	      <li class="mt-4">Rather walk away? We will refund you every penny if we are not a good fit. Simple as that.</li>
-	    </ol>
-	    <p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">After your first 7 days:</p>
-	    <ol class="mt-4 ml-8 text-xl list-decimal">
-	      <li>We can always try a new or different Developer at any time during your plan. Want to swap a new one in? No problem! Just let us know and we can take care of it.</li>
-	      <li class="mt-4">If you have used your Developer more than the intial 7-day period, we will no longer offer a refund. At this point into the relationship, we hope that you already know if your Developer is going to be a great fit or not.</li>
-	    </ol>
-		<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">We do not give refunds for the following:</p>
-	    <ol class="mt-4 ml-8 text-xl list-decimal">
-	      <li>If you brought us on to help you with a project or work with a deadline, and the work was not completed by the deadline, and you are outside of your 7-day Satisfaction Gaurantee, we will not honor a refund.</li>
-	      <li class="mt-4">If we credit your account with free days of work, by pushing back your billing date, we will not honor a refund for the original charge.</li>
-		  <li class="mt-4">If you purchased a Black Friday / Cyber Monday discounted plan.</li>
-	    </ol>
+	<header class="container absolute inset-x-0 top-0 z-50 flex items-center justify-between px-8 mx-auto max-w-7xl">
+		<img src="img/ripplepop-logo.svg" alt="RipplePop Logo" class="w-64 h-auto">
+		<div class="text-lg">
+			<!-- <a href="#pricing">Pricing</a> -->
+			<a href="https://calendly.com/ripplepop/call" target="_blank"
+				class="rounded-md bg-sky-500 px-3.5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-sky-400">Book
+				a
+				Call</a>
+		</div>
+	</header>
+	<div class="container flex mx-auto">
+		<div class="px-12 pt-12 pb-32 mx-auto md:w-7/12 sm:w-10/12 md:px-0 underline-a">
+			<h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">What is your refund policy?</h1>
+			<p class="mt-8 text-2xl text-gray-900 underline-a">If you were just charged within the last 1 day for your
+				next week of RipplePop, but you forgot to cancel before the charge. We are happy to refund
+				you.<br><br>If you are leaving us during your initial 7-Day Satisfaction Guarantee period of your first
+				plan with us, we'll happily refund you.<br><br>If we had extended downtime (developer sick or absent
+				without a replacement), we'll issue a partial refund or move forward your next billing date to
+				accommodate for the downtime.</p>
+			<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">During your first 7 days (7-Day Satisfaction
+				Guarantee) on your first plan with us:</p>
+			<ol class="mt-4 ml-8 text-xl list-decimal">
+				<li>Want to try a different Developer? No problem! We can swap a new Developer in who might be a better
+					fit for you.</li>
+				<li class="mt-4">Rather walk away? We will refund you every penny if we are not a good fit. Simple as
+					that.</li>
+			</ol>
+			<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">After your first 7 days:</p>
+			<ol class="mt-4 ml-8 text-xl list-decimal">
+				<li>We can always try a new or different Developer at any time during your plan. Want to swap a new one
+					in? No problem! Just let us know and we can take care of it.</li>
+				<li class="mt-4">If you have used your Developer more than the intial 7-day period, we will no longer
+					offer a refund. At this point into the relationship, we hope that you already know if your Developer
+					is going to be a great fit or not.</li>
+			</ol>
+			<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">We do not give refunds for the following:
+			</p>
+			<ol class="mt-4 ml-8 text-xl list-decimal">
+				<li>If you brought us on to help you with a project or work with a deadline, and the work was not
+					completed by the deadline, and you are outside of your 7-day Satisfaction Gaurantee, we will not
+					honor a refund.</li>
+				<li class="mt-4">If we credit your account with free days of work, by pushing back your billing date, we
+					will not honor a refund for the original charge.</li>
+				<li class="mt-4">If you purchased a Black Friday / Cyber Monday discounted plan.</li>
+			</ol>
+		</div>
 	</div>
-</div>
-<footer class="bg-gray-100 border-t-2 border-gray-300 border-solid">
-    <div class="px-6 py-12 mx-auto max-w-7xl md:flex md:items-center md:justify-between lg:px-8">
-      <div class="flex flex-wrap justify-center space-x-12 md:order-2">
-        <a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
-        <a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
-        <a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>       
-      </div>
-      <div class="mt-8 md:order-1 md:mt-0">
-        <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;"
-          class="mx-auto md:mx-0"></a>
-        <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2023 RipplePop, LLC</p>
-        <p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made in Chicago</p>
-      </div>
-    </div>
-  </footer>
-</div><!-- #page -->
-<!-- Fathom - beautiful, simple website analytics -->
-<script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
-<!-- / Fathom -->
-<!-- Helpscout Beacon -->
-<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
-<script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>
+	<footer class="bg-gray-100 border-t-2 border-gray-300 border-solid">
+		<div class="px-6 py-12 mx-auto max-w-7xl md:flex md:items-center md:justify-between lg:px-8">
+			<div class="flex flex-wrap justify-center space-x-12 md:order-2">
+				<a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
+				<a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
+				<a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
+			</div>
+			<div class="mt-8 md:order-1 md:mt-0">
+				<a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;"
+						class="mx-auto md:mx-0"></a>
+				<p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2023 RipplePop, LLC</p>
+				<p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made
+					in Chicago</p>
+			</div>
+		</div>
+	</footer>
+	</div><!-- #page -->
+	<!-- Fathom - beautiful, simple website analytics -->
+	<script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
+	<!-- / Fathom -->
+	<!-- Helpscout Beacon -->
+	<script
+		type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
+	<script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>
