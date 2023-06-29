@@ -1,29 +1,31 @@
 <!doctype html>
 <head>
-	<title>RipplePop | FAQ</title>
+<title>RipplePop | FAQ</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-	<link href="styles.css" rel="stylesheet">
-	<link rel="shortcut icon" href="favicon.ico" />
-	<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1">
-	<meta name="description" content="The most frequently asked questions we get about RipplePop.">
-	<meta property="og:image" content="images/favicon-dog.png">
-	<meta property="og:image:width" content="512">
-	<meta property="og:image:height" content="512">
-	<meta property="og:locale" content="en_US">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="RipplePop | Hire a WordPress Developer Today">
-	<meta property="og:description" content="The most frequently asked questions we get about RipplePop.">
-	<meta property="og:url" content="https://ripplepop.com/">
-	<meta property="og:site_name" content="RipplePop">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="RipplePop | Hire a WordPress Developer Today">
-	<meta name="twitter:description" content="The most frequently asked questions we get about RipplePop.">
-	<meta name="twitter:image" content="images/favicon-dog.png">
-	<meta name="twitter:image:width" content="512">
-	<meta name="twitter:image:height" content="512">
-	<link rel="canonical" href="https://ripplepop.com/">
+  <script src="js/tailwind.js"></script>
+  <link rel="shortcut icon" href="favicon.ico" />
+  <meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1">
+  <meta name="description"
+    content="The most frequently asked questions about RipplePop to help make sure we are a good fit.">
+  <meta property="og:image" content="img/meta-share.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="627">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="RipplePop | Instantly Scale Your WordPress Development Capacity">
+  <meta property="og:description"
+    content="The most frequently asked questions about RipplePop to help make sure we are a good fit.">
+  <meta property="og:url" content="https://ripplepop.com/">
+  <meta property="og:site_name" content="RipplePop">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RipplePop | Instantly Scale Your WordPress Development Capacity">
+  <meta name="twitter:description"
+    content="The most frequently asked questions about RipplePop to help make sure we are a good fit.">
+  <meta name="twitter:image" content="img/meta-share.png">
+  <meta name="twitter:image:width" content="1200">
+  <meta name="twitter:image:height" content="627">
+  <link rel="canonical" href="https://ripplepop.com/">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88669181-1"></script>
@@ -53,64 +55,64 @@
 	<!-- End Meta Pixel Code -->
 </head>
 <body class="text-gray-900 faq">
-<nav class="flex items-center justify-between flex-wrap px-6">
+<nav class="flex flex-wrap items-center justify-between px-6">
   <div class="flex items-center flex-grow mr-6">
     <a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" id="mainLogo"></a>
   </div>
 </nav>
-<div class="container flex mx-auto md:px-0 px-12">
-  <div class="md:w-7/12 sm:w-10/12 pt-12 pb-12 mx-auto" id="top">
-    <h1 class="text-6xl leading-tight text-gray-900 graphik-bold text-center pb-20"><span class="graphik-regular">Frequently Asked</span> Questions</h1>
-    <p class="text-4xl text-gray-900 graphik-bold my-8">Overview</p>
+<div class="container flex px-12 mx-auto md:px-0">
+  <div class="pt-12 pb-12 mx-auto md:w-7/12 sm:w-10/12" id="top">
+    <h1 class="pb-20 text-6xl leading-tight text-center text-gray-900 graphik-bold"><span class="graphik-regular">Frequently Asked</span> Questions</h1>
+    <p class="my-8 text-4xl text-gray-900 graphik-bold">Overview</p>
     <ul class="text-xl">
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-is-ripplepop">What is RipplePop?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-does-ripplepop-work">How does RipplePop work?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-does-ripplepop-cost">What does RipplePop cost?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#are-there-any-long-term-contracts">Are there any long term contracts?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#where-is-ripplepop-based">Where is RipplePop based?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-you-help-with-one-off-projects">Can you help with one-off projects?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-you-help-with-non-wordpress-projects">Can you help with non-WordPress projects?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#what-is-ripplepop">What is RipplePop?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-does-ripplepop-work">How does RipplePop work?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#what-does-ripplepop-cost">What does RipplePop cost?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#are-there-any-long-term-contracts">Are there any long term contracts?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#where-is-ripplepop-based">Where is RipplePop based?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-you-help-with-one-off-projects">Can you help with one-off projects?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-you-help-with-non-wordpress-projects">Can you help with non-WordPress projects?</a></li>
     </ul>
 
-    <p class="text-4xl text-gray-900 graphik-bold mb-8 mt-20">Scaling</p>
+    <p class="mt-20 mb-8 text-4xl text-gray-900 graphik-bold">Scaling</p>
     <ul class="text-xl">
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#whats-the-advantage-of-ripplepop-over-upwork">What's the advantage of RipplePop over Upwork?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-are-the-different-ways-i-can-scale-my-ripplepop-team">What are the different ways I can scale my RipplePop team?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-white-label-my-ripplepop-team">Can I white-label my RipplePop team?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-about-the-weekends">What about the weekends?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#whats-the-difference-between-the-plans-do-hours-roll-over">What's the difference between the plans? Do hours roll-over?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-downgrade-my-plan-as-i-go-if-my-needs-change">Can I downgrade my plan as I go if my needs change?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#whats-the-advantage-of-ripplepop-over-upwork">What's the advantage of RipplePop over Upwork?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#what-are-the-different-ways-i-can-scale-my-ripplepop-team">What are the different ways I can scale my RipplePop team?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-i-white-label-my-ripplepop-team">Can I white-label my RipplePop team?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#what-about-the-weekends">What about the weekends?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#whats-the-difference-between-the-plans-do-hours-roll-over">What's the difference between the plans? Do hours roll-over?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-i-downgrade-my-plan-as-i-go-if-my-needs-change">Can I downgrade my plan as I go if my needs change?</a></li>
     </ul>
 
-    <p class="text-4xl text-gray-900 graphik-bold mb-8 mt-20">Developers</p>
+    <p class="mt-20 mb-8 text-4xl text-gray-900 graphik-bold">Developers</p>
     <ul class="text-xl">
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-do-you-vet-developers">How do you vet developers?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-soon-can-a-new-developer-get-started">How soon can a new developer get started?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-a-developer-help-with-other-types-of-tasks">Can a developer help with other types of tasks?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#do-your-developers-have-design-experience">Do your developers have design experience?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-does-a-developer-work-on-my-timezone">How does a developer work on my timezone?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-track-my-developers-time">Can I track my developer's time?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-do-a-video-or-screen-share-with-my-developer-while-they-work">Can I do a video or screen-share with my developer while they work?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-should-i-share-logins-and-passwords-with-my-developer">How should I share logins and passwords with my developer?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-do-i-submit-requests-to-my-developer">How do I submit requests to my developer?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-do-you-vet-developers">How do you vet developers?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-soon-can-a-new-developer-get-started">How soon can a new developer get started?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-a-developer-help-with-other-types-of-tasks">Can a developer help with other types of tasks?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#do-your-developers-have-design-experience">Do your developers have design experience?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-does-a-developer-work-on-my-timezone">How does a developer work on my timezone?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-i-track-my-developers-time">Can I track my developer's time?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-i-do-a-video-or-screen-share-with-my-developer-while-they-work">Can I do a video or screen-share with my developer while they work?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-should-i-share-logins-and-passwords-with-my-developer">How should I share logins and passwords with my developer?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-do-i-submit-requests-to-my-developer">How do I submit requests to my developer?</a></li>
     </ul>
 
-    <p class="text-4xl text-gray-900 graphik-bold mb-8 mt-20">Account</p>
+    <p class="mt-20 mb-8 text-4xl text-gray-900 graphik-bold">Account</p>
     <ul class="text-xl">
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#how-do-i-cancel-upgrade-downgrade-or-change-billing">How do I cancel, upgrade, downgrade, or change billing?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-is-your-refund-policy">What is your refund policy?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-pause-or-freeze-my-account-and-retain-my-developer-when-i-return">Can I pause or freeze my account and retain my developer when I return?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#what-if-my-developer-is-sick-or-absent">What if my developer is sick or absent?</a></li>
-      <li class="mb-6"><a class="text-xl text-blue-500 graphik-bold hover:underline" href="#can-i-change-to-a-new-developer">Can I change to a new developer?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#how-do-i-cancel-upgrade-downgrade-or-change-billing">How do I cancel, upgrade, downgrade, or change billing?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#what-is-your-refund-policy">What is your refund policy?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-i-pause-or-freeze-my-account-and-retain-my-developer-when-i-return">Can I pause or freeze my account and retain my developer when I return?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#what-if-my-developer-is-sick-or-absent">What if my developer is sick or absent?</a></li>
+      <li class="mb-6"><a class="text-xl text-sky-500 graphik-bold hover:underline" href="#can-i-change-to-a-new-developer">Can I change to a new developer?</a></li>
     </ul>
 
-    <hr class="border-t-2 border-solid border-black my-24">
+    <hr class="my-24 border-t-2 border-black border-solid">
 
     <div class="faq-block" id="what-is-ripplepop">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold my-8">What is RipplePop?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="my-8 text-4xl text-gray-900 faq-question graphik-bold">What is RipplePop?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
-	 Started in 2016, RipplePop is a one-stop-shop for any and all WordPress help.&nbsp;
+	 Started in 2015, RipplePop is a one-stop-shop for any and all WordPress help.&nbsp;
 </p>
 <p>
 	 RipplePop gives you and your company a professional and dedicated developer for a flat weekly fee.
@@ -124,13 +126,13 @@
 <p>
 	 Best of all, with RipplePop you get the reliability and accountability of the RipplePop support team in Chicago.&nbsp;
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-does-ripplepop-work">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How does RipplePop work?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How does RipplePop work?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 We try to make the process of getting the best developer to help you as simple as possible. We will send you a list of our developers so you can see all of their different skills and proficiencies. From that list, you can sign up directly with the developer you wish to work with.
 </p>
@@ -139,76 +141,76 @@
 </p>
 <p>
 	 If you have any questions before getting started, just send an email to 
-	<a href="mailto:hello@ripplepop.com" class="text-blue-500 underline">hello@ripplepop.com</a> and we'll help.
+	<a href="mailto:hello@ripplepop.com" class="underline text-sky-500">hello@ripplepop.com</a> and we'll help.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="what-does-ripplepop-cost">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What does RipplePop cost?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What does RipplePop cost?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
-   You can view pricing next to each developer in our developer list. To get started, leave your email and we'll share a list of our developers with you and you can get started with the one you think will work best for your scenario. 
+   You can view pricing on the homepage of our website. We offer weekly plans as well as bulk hour bundles. To get started, <a href="https://calendly.com/ripplepop/call" target="_blank" class="text-sky-500">book a call</a> with us and share your needs and we can find the perfect fit developer for you. 
 </p>
 <p>
 	 If you have any questions about our pricing or plans, please email us at 
 	<a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.&nbsp;
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="are-there-any-long-term-contracts">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Are there any long-term contracts?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Are there any long-term contracts?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
-   Our membership is week-to-week. We even offer a 7-day 100% satisfaction guarantee on our 2-hour per day plan to make it even easier for you to sign up with as little risk as possible.
-</p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+            Our primary plans are week-to-week. We even offer a 7-day 100% satisfaction guarantee on our weekly plans to make it even easier for you to sign up with as little risk as possible.
+        </p>
+        <p>
+            We also offer bulk hour bundles that are valid for 1 year (for the 125 hour bundle) and 18 months (for the 250 hour bundle) from the date of purchase. These are great for one-off projects or if you want a large bank of hours to pull from as-needed.
+        </p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="where-is-ripplepop-based">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Where is RipplePop Based?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Where is RipplePop Based?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 RipplePop is based in Chicago and our development team is based in the Philippines.&nbsp;We love our Filipino team, they are incredibly hard-working and diligent.
 </p>
 <p>
 	 We look for at least 5+ years of custom WordPress development experience along with great English skills.&nbsp;Part of our vetting process is making sure our developers have very good English comprehension and writing skills to reduce the risk of any miscommunications.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-you-help-with-one-off-projects">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can you help with one-off projects?</h3>
-      <div class="faq-answer text-xl text-gray-900">
-<p>
-   Yes we can! However, please make sure you read our <a href="https://ripplepop.com/expectations/" target="_blank">Expectations Agreement</a> to understand more about how you might fit a project into a plan like ours which is based around adhering to strict daily hours of work (not a project scope per se).
-</p>
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can you help with one-off projects?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
 <p>
    In short, yes you can use one of our plans to complete a project. Just remember, that our plans are not bound to your project scope or deadline. If the project is not going to meet its deadline, we can not be at fault. You may just simply need to increase the number of daily hours (upgrade your plan) for your developer to better meet a deadline if things are off-track. Our developers will always do their best to help you meet your deadlines, but we are in no way bound to your deadlines or project scope.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 	  
 	  <div class="faq-block" id="can-you-help-with-non-wordpress-projects">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can you help with non-WordPress projects?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can you help with non-WordPress projects?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Absolutely! Many of our customers have projects ranging from Shopify to marketing to design to app development. If you'd like us to help find the perfect creative for your next project that is not WordPress related, be sure to ask at 
 	<a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="whats-the-advantage-of-ripplepop-over-upwork">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What's the advantage of RipplePop over Upwork?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What's the advantage of RipplePop over Upwork?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    The main advantage of RipplePop is that you have a company (us) and service offering backing up our plans.&nbsp;
 </p>
@@ -218,13 +220,13 @@
 <p>
    With us, you get a company that backs the promise. If a dev is not doing a good job for you, you can quickly pick a new one on our team to work with and even provide replacement developers if your developer is sick or absent. These types of things are what make our service something you might pick over trying to go and find the perfect freelancer that you can entrust with the work you have.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="what-are-the-different-ways-i-can-scale-my-ripplepop-team">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What are the different ways I can scale my RipplePop team?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What are the different ways I can scale my RipplePop team?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    Scaling your RipplePop team is something we wanted to make simple. There are two ways you can scale: Horizontally or Vertically. 
   <br>
@@ -243,36 +245,36 @@
 <p>
    So you can either scale up your current developer's hours or scale outwards by adding additional developers to your team.&nbsp;
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-i-white-label-my-ripplepop-team">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I white-label my RipplePop team?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can I white-label my RipplePop team?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Yes! Our developers are yours to use as you need. If you need a developer or team of developers to be replying directly to your clients or customers, we can supply the team to do that.&nbsp;
 </p>
 <p>
 	 You can make them their own email within your organization for them to use to white-label it even further. We try to be flexible here so you can use your developer for your specific use-case.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="what-about-the-weekends">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What about the weekends?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What about the weekends?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Our current plans only cover 5 days of work per week (Monday - Friday), however, if you are interested in getting weekend coverage, just let us know and we can talk about finding someone for weekend work if we have them available.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="whats-the-difference-between-the-plans-do-hours-roll-over">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What's the difference between the plans? Do hours roll-over?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What's the difference between the plans? Do hours roll-over?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    When you sign up for RipplePop, you are signing up for 8, 4, or 2 hours of daily help (Monday - Friday). The daily hours you receive on your plan do not roll-over if they go unused on a particular day or set of days. Since your developer may be helping other customers of ours each day, we can not roll-over hours or bundle them in any other way.
 </p>
@@ -284,26 +286,26 @@
   <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>.
 </p>
 <p>
-	 NEW!! With RipplePop Flow your hours can now roll-over! We've created an add-on for all RipplePop plans that lets any of your unused hours roll-over week to week. To learn more, book a call on our homepage.
+	 If you want a more flexible approach to your hours, we offer bulk hour bundles where you get a larger bank of hours to pull from as-needed.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-i-downgrade-my-plan-as-i-go-if-my-needs-change">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I downgrade my plan as I go if my needs change?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can I downgrade my plan as I go if my needs change?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
   You can downgrade from any plan to a lower plan if you need to do that. You can do this from within your account area on our site, or simply by emailing us at 
   <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a>. Once your plan is adjusted, your next weekly charge will go through at the new weekly rate.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-do-you-vet-developers">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How do you vet developers?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How do you vet developers?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 We have a very rigorous vetting process to ensure only the best developers make it through to be on our team. 
 	<br>
@@ -331,23 +333,23 @@
 <p>
 	 One of the ways we protect our customers is by having a very in-depth and thorough vetting process. This helps ensure only the most diligent, honest, knowledgeable, and reliable developers make it through.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-soon-can-a-new-developer-get-started">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How soon can a new developer get started?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How soon can a new developer get started?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 As soon as you sign up, an internal clock of ours starts ticking. Typically we have a perfect match ready for you within 24 - 48 hours of signing up depending on your specific needs.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-a-developer-help-with-other-types-of-tasks">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can a developer help with other types of tasks?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can a developer help with other types of tasks?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Yes! 
 	<br>
@@ -366,13 +368,13 @@
 <p>
 	 Your developer's daily hours are yours to utilize. If the amount of dev work is light, you can always get creative with asking for help on other items as long as they are comfortable doing so.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="do-your-developers-have-design-experience">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Do your developers have design experience?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Do your developers have design experience?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 When you sign up we connect with you to discover your exact needs. If you need a developer who has solid design skills and can whip up a page from scratch with minimal design input, we can find that developer for you.
 </p>
@@ -382,13 +384,13 @@
 	<br>
 	 If you need a graphic designer outright, you can let us know as we have many great designers we can assign to you as well!
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-does-a-developer-work-on-my-timezone">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How does a developer work on my timezone?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How does a developer work on my timezone?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    We were often challenged with how we should go about scheduling our developers and how we felt, morally, about asking some to work overnight/graveyard shifts due to the larger effect that has on day-to-day life. The way we corrected this and allow ourselves to sleep much easier at night is we let our developers work out their schedule with you directly and attempt to find the best agreed-upon schedule that will work for you both.
 </p>
@@ -398,13 +400,13 @@
 <p>
    That way, you get a developer who is happy to be online and working with you during their preferred shift schedule. This allows you to do things like a Zoom, Skype, Google Hangouts, Slack chat, etc all while they are working. This real-time collaboration is a great way to help make sure you always have access to your developer during your daily shift schedule.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-i-track-my-developers-time">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I track my developers time?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can I track my developers time?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Yes! 
 	<br>
@@ -417,26 +419,26 @@
 	<br>
 	 That's it! You're all set and can now track the hours of your developer.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-i-do-a-video-or-screen-share-with-my-developer-while-they-work">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I do a video or screen-share with my developer while they work?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can I do a video or screen-share with my developer while they work?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Yes, absolutely! All of our developers will have Zoom installed and most already have Skype as well.&nbsp;
 </p>
 <p>
 	 During their shift, each day, the developer we supplied to you is yours to use as you need within their skill-set. Feel free to have a call or share your screen if you ever need to!
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-should-i-share-logins-and-passwords-with-my-developer">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How should I share logins and passwords with my developer?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How should I share logins and passwords with my developer?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	<strong>Password Managers (Tools/Services)</strong>
 </p>
@@ -475,13 +477,13 @@
 	 The beauty of 
 	<a href="https://1ty.me/">https://1ty.me/</a> is that it generates a unique link to that file that only you will know. When you send it to us and we open it, the note can never be opened again by anyone else. It self destructs. And therefore makes it an extremely secure and easy way for you to share your login information with us and know it will not cause any security issues.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-do-i-submit-requests-to-my-developer">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How do I submit requests to my developer?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How do I submit requests to my developer?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
 	 Most of our customers are people or agencies who are already using a project management tool to track their work. Examples of tools we've helped with in the past include&nbsp;Basecamp, Trello, Asana, Jira, Slack, Monday, Google Docs, etc.
 </p>
@@ -494,34 +496,30 @@
 <p>
 	 If you do not have a Project Management tool in place, let us know and we can always create a private shared Trello board as a starting point or you can simply request things from your developer by sending them an email if ever needed.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="how-do-i-cancel-upgrade-downgrade-or-change-billing">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">How do I cancel, upgrade, downgrade, or change billing?</h3>
-      <div class="faq-answer text-xl text-gray-900">
-        <p>
-	 You can access your account from 
-	<a href="https://ripplepop.com/my-account/">ripplepop.com/my-account</a>
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">How do I cancel, upgrade, downgrade, or change billing?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
+<p>
+	 If you need to cancel, upgrade, downgrade, or change your billing information just send us an email and we can handle it for you. Easy as that!
 </p>
 <p>
-	 Once logged in, you can easily cancel your subscription and change your billing details from within the various tabs present within your account dashboard.&nbsp;
-</p>
-<p>
-	 If you'd like to upgrade or downgrade send us an email at 
+	 Just send us an email at 
 	<a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a> and we'll help make sure everything gets correctly updated.
 </p>
 <p>
 	 If you are looking to pause your work but would like to retain access to your same developer upon returning please let us know.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="what-is-your-refund-policy">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What is your refund policy?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What is your refund policy?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    You can find our refund policy on our 
   <a href="https://ripplepop.com/refunds">refunds page</a>.
@@ -536,13 +534,13 @@
 <p>
 	<strong style="background-color: initial;"></strong>At the end of the day, almost everything on the edges comes down to a case-by-case basis. Send an email to <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a> and tell us what is going on.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-i-pause-or-freeze-my-account-and-retain-my-developer-when-i-return">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I pause or freeze my account and retain my developer when I return?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can I pause or freeze my account and retain my developer when I return?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    Yes, if you wish to pause your billing and want to return in the future and have us retain the same developer who you were assigned, we can do that with a reduced monthly fee.
 </p>
@@ -558,13 +556,13 @@
 <p>
    If you are canceling or pausing for just a few days or one-week, oftentimes that is short enough where we can reserve your developer without much issue or need for additional charges. However, if you plan on pausing for more than a few days, you would need to pay the retainer fee to lock in the same developer and time slot when you return again.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="what-if-my-developer-is-sick-or-absent">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">What if my developer is sick or absent?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">What if my developer is sick or absent?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
    That is the beauty of having a service/business (us!) around!
 </p>
@@ -581,63 +579,55 @@
    We'll always be here to help in these types of scenarios. If your developer is not reporting in for you today and you need something from them, please email us at 
   <a href="mailto:mailto:hello@ripplepop.com">hello@ripplepop.com</a> so we can get you a replacement right away.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
     <div class="faq-block" id="can-i-change-to-a-new-developer">
-      <h3 class="faq-question text-4xl text-gray-900 graphik-bold mb-8 mt-16">Can I change to a new developer?</h3>
-      <div class="faq-answer text-xl text-gray-900">
+      <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question graphik-bold">Can I change to a new developer?</h3>
+      <div class="text-xl text-gray-900 faq-answer">
         <p>
   Yes and no, let us explain.
 </p>
 <p>
   If you want to change your current developer and work with someone new (for whatever reason), the way you do that is you would set your weekly plan to expire (not-renew). Then you would revisit our Developer List we shared with you and sign up with the developer you wish to work with instead. We do not allow you to change your developer mid-week, so please make sure that if you want to work with someone else on our team, that you plan that change accordingly.
 </p>
-      <p><a href="#top" class="back-to-top graphik-bold text-gray-500 hover:underline">Back To Top</a></p>
+      <p><a href="#top" class="text-gray-500 back-to-top graphik-bold hover:underline">Back To Top</a></p>
       </div>
     </div>
 
-    <hr class="border-t-2 border-solid border-black my-24">
+    <hr class="my-24 border-t-2 border-black border-solid">
 
   </div>
 </div>
 <div class="container mx-auto mt-12 mb-24">
-  <div class="md:w-10/12 w-full mx-auto">
-    <div class="w-full mx-auto bg-blue-700 p-12 mb-12 rounded-lg text-white text-center">
-      <h3 class="graphik-bold text-4xl">Take the first step with no commitment needed</h3>
-      <h4 class="text-lg leading-loose mb-12">The first step in our process is finding you the right person for your needs. Then we can get back to you with a developer perfectly matched to you before you ever need to sign up or pay.</h4>
+  <div class="w-full mx-auto md:w-10/12">
+    <div class="w-full p-12 mx-auto mb-12 text-center text-white bg-blue-700 rounded-lg">
+      <h3 class="text-4xl graphik-bold">Take the first step with no commitment needed</h3>
+      <h4 class="mb-12 text-lg leading-loose">The first step in our process is finding you the right person for your needs. Then we can get back to you with a developer perfectly matched to you before you ever need to sign up or pay.</h4>
 			<!-- Calendly link widget begin -->
 			<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 			<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 			<!-- Calendly link widget end -->
-	    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ripplepop/call?primary_color=4299e1'});return false;"><button class="xl:w-2/3 w-full px-2 py-4 text-lg graphik-bold tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl">BOOK A CALL<span class="text-sm text-center block">Let's chat about your needs</span></button></a>
+	    <a href="https://calendly.com/ripplepop/call" target="_blank"><button class="w-full px-2 py-4 text-lg tracking-wider text-white uppercase transition duration-100 ease-in-out bg-blue-500 border-none rounded-lg shadow-lg xl:w-2/3 graphik-bold hero-cta md:text-2xl hover:bg-blue-600 hover:shadow-xl">BOOK A CALL<span class="block text-sm text-center">Let's chat about your needs</span></button></a>
     </div>
   </div>
 </div>
-<footer id="colophon" class="site-footer bg-gray-100 border-solid border-t-4 border-gray-300">
-	<div class="container mx-auto pt-12 pb-12">
-		<div class="md:flex block">
-			<div class="md:w-1/5 w-2/3 md:text-left text-center md:mx-0 mx-auto">
-				<a href="/"><img src="images/Logo-RipplePop.svg" alt="RipplePop Logo" style="width: 200px;" class="md:mx-0 mx-auto"></a>
-				<p class="text-lg leading-relaxed text-gray-600 ml-2 graphik-bold tracking-tight">💙 Proudly Made in Chicago</p>
-				<p class="text-normal leading-relaxed text-gray-600 tracking-tight text-xs mt-0 ml-2">Copyright ©2015-2022 RipplePop.</p>
-			</div>
-			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto">
-				<a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
-			</div>
-			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">
-				<a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
-			</div>
-			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
-				<a href="/faq" class="text-lg leading-relaxed text-gray-900">FAQ</a>
-			</div>
-			<div class="w-4/5 md:w-1/5 mt-4 text-center md:mx-0 mx-auto md:mb-0 mb-8">	
-				<a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
-			</div>
-		</div>
-	</div>
-</footer><!-- #colophon -->
+<footer class="bg-gray-100 border-t-2 border-gray-300 border-solid">
+    <div class="px-6 py-12 mx-auto max-w-7xl md:flex md:items-center md:justify-between lg:px-8">
+      <div class="flex flex-wrap justify-center space-x-12 md:order-2">
+        <a href="/terms" class="text-lg leading-relaxed text-gray-900">Terms of Service</a>
+        <a href="/privacy" class="text-lg leading-relaxed text-gray-900">Privacy Policy</a>
+        <a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>       
+      </div>
+      <div class="mt-8 md:order-1 md:mt-0">
+        <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;"
+          class="mx-auto md:mx-0"></a>
+        <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2023 RipplePop, LLC</p>
+        <p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made in Chicago</p>
+      </div>
+    </div>
+  </footer>
 </div><!-- #page -->
 <!-- Fathom - beautiful, simple website analytics -->
 <script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
