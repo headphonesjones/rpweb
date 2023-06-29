@@ -47,15 +47,15 @@
 		</div>
 	</header>
 	<div class="container flex mx-auto">
-		<div class="px-12 pt-12 pb-32 mx-auto md:w-7/12 sm:w-10/12 md:px-0 underline-a">
-			<h1 class="text-4xl leading-relaxed text-gray-900 graphik-bold">What is your refund policy?</h1>
+		<div class="px-12 pt-24 pb-32 mx-auto md:w-7/12 sm:w-10/12 md:px-0 underline-a">
+			<h1 class="text-4xl leading-relaxed text-gray-900 font-black">What is your refund policy?</h1>
 			<p class="mt-8 text-2xl text-gray-900 underline-a">If you were just charged within the last 1 day for your
 				next week of RipplePop, but you forgot to cancel before the charge. We are happy to refund
 				you.<br><br>If you are leaving us during your initial 7-Day Satisfaction Guarantee period of your first
 				plan with us, we'll happily refund you.<br><br>If we had extended downtime (developer sick or absent
 				without a replacement), we'll issue a partial refund or move forward your next billing date to
 				accommodate for the downtime.</p>
-			<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">During your first 7 days (7-Day Satisfaction
+			<p class="mt-8 text-2xl text-gray-900 font-black underline-a">During your first 7 days (7-Day Satisfaction
 				Guarantee) on your first plan with us:</p>
 			<ol class="mt-4 ml-8 text-xl list-decimal">
 				<li>Want to try a different Developer? No problem! We can swap a new Developer in who might be a better
@@ -63,7 +63,7 @@
 				<li class="mt-4">Rather walk away? We will refund you every penny if we are not a good fit. Simple as
 					that.</li>
 			</ol>
-			<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">After your first 7 days:</p>
+			<p class="mt-8 text-2xl text-gray-900 font-black underline-a">After your first 7 days:</p>
 			<ol class="mt-4 ml-8 text-xl list-decimal">
 				<li>We can always try a new or different Developer at any time during your plan. Want to swap a new one
 					in? No problem! Just let us know and we can take care of it.</li>
@@ -71,7 +71,7 @@
 					offer a refund. At this point into the relationship, we hope that you already know if your Developer
 					is going to be a great fit or not.</li>
 			</ol>
-			<p class="mt-8 text-2xl text-gray-900 graphik-bold underline-a">We do not give refunds for the following:
+			<p class="mt-8 text-2xl text-gray-900 font-black underline-a">We do not give refunds for the following:
 			</p>
 			<ol class="mt-4 ml-8 text-xl list-decimal">
 				<li>If you brought us on to help you with a project or work with a deadline, and the work was not

@@ -45,7 +45,7 @@
         Call</a>
     </div>
   </header>
-  <div class="container flex mx-auto">
+  <div class="container flex mx-auto mt-24">
     <div class="w-10/12 pt-12 pb-32 mx-auto md:w-7/12">
       <a href="https://www.iubenda.com/privacy-policy/24613854" class="iubenda-white iubenda-embed iub-body-embed"
         title="Privacy Policy">Privacy Policy</a>
