@@ -63,9 +63,8 @@
 </head>
 
 <body class="text-gray-900 faq">
-  <header
-    class="container absolute inset-x-0 top-0 z-50 flex items-center justify-between px-8 mx-auto max-w-7xl md:pt-0 pt-4">
-    <img src="img/ripplepop-logo.svg" alt="RipplePop Logo" class="md:w-64 w-36 h-auto">
+  <header class="container absolute inset-x-0 top-0 z-50 flex items-center justify-between px-8 mx-auto max-w-7xl">
+    <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" class="w-64 h-auto"></a>
     <div class="text-lg">
       <!-- <a href="#pricing">Pricing</a> -->
       <a href="https://calendly.com/ripplepop/call" target="_blank"
