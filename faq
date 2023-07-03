@@ -30,6 +30,7 @@
   <style>
     p {
       margin-bottom: 1.5rem !important;
+      color: #4b5563 !important;
     }
   </style>
 
@@ -184,13 +185,10 @@
         <h3 class="mt-16 mb-8 text-4xl text-gray-900 faq-question font-bold">How does RipplePop work?</h3>
         <div class="text-xl text-gray-900 faq-answer">
           <p>
-            We try to make the process of getting the best developer to help you as simple as possible. We will send you
-            a list of our developers so you can see all of their different skills and proficiencies. From that list, you
-            can sign up directly with the developer you wish to work with.
+            We try to make the process of getting the best developer to help you as simple as possible. The first step is to <a href="https://calendly.com/ripplepop/call" target="_blank" class="text-sky-500">get on a call with us</a> so we can learn more about your needs and make sure we are a good fit. Then we will work to find the best developer on our team for your needs.
           </p>
           <p>
-            That's it! Once you sign up, your developer will contact you within 24 hours and finalize their schedule and
-            tasks for their first day.
+            Once we find that developer you can speak with them directly before signing up if you wish or you can get started right away with them. It's as easy as that to get a professional developer added to your team and working on your projects.
           </p>
           <p>
             If you have any questions before getting started, just send an email to
