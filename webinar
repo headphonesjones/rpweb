@@ -16,7 +16,7 @@
     <meta property="og:title" content="RipplePop | AI Webinar">
     <meta property="og:description"
         content="FREE WEBINAR! AI Business Value: Making AI Impactful For Your Creative Business">
-    <meta property="og:url" content="https://ripplepop.com/">
+    <meta property="og:url" content="https://ripplepop.com/webinar">
     <meta property="og:site_name" content="RipplePop">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="RipplePop | AI Webinar">
@@ -25,7 +25,7 @@
     <meta name="twitter:image" content="img/ai-webinar.jpg">
     <meta name="twitter:image:width" content="1200">
     <meta name="twitter:image:height" content="627">
-    <link rel="canonical" href="https://ripplepop.com/">
+    <link rel="canonical" href="https://ripplepop.com/webinar">
     <style>
         p {
             margin-bottom: 1.5rem !important;
