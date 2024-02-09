@@ -40,8 +40,7 @@
     <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" class="md:w-64 w-36 h-auto"></a>
     <div class="text-lg">
       <!-- <a href="#pricing">Pricing</a> -->
-      <a href="https://calendly.com/ripplepop/call" target="_blank"
-        class="rounded-md bg-sky-500 px-3.5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-sky-400">Book a
+      <a href="https://calendly.com/ripplepop/call" target="_blank" class="rounded-md bg-sky-500 px-3.5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-sky-400">Book a
         Call</a>
     </div>
   </header>
@@ -85,10 +84,8 @@
         <li>Each provision of this Agreement will be considered severable, such that if any one provision or clause
           conflicts with existing or future applicable law or may not be given full effect because of such law, no other
           provision that can operate without the conflicting provision or clause will be affected.</li>
-        <li>By agreeing to our terms of service you are also acknowledging that you have read and agree to our <a
-            href="/expectations" target="_blank" class="text-blue-500" style="color: #4299e1 !important;">Expectations
-            Agreement</a> and <a href="refunds" target="_blank" class="text-blue-500"
-            style="color: #4299e1 !important;">Refund Policy</a> as well as the terms listed here in this document.</li>
+        <li>By agreeing to our terms of service you are also acknowledging that you have read and agree to our <a href="/expectations" target="_blank" class="text-blue-500" style="color: #4299e1 !important;">Expectations
+            Agreement</a> and <a href="refunds" target="_blank" class="text-blue-500" style="color: #4299e1 !important;">Refund Policy</a> as well as the terms listed here in this document.</li>
       </ol>
       <p class="mt-8 text-2xl text-gray-900 graphik-bold">Our Duties and Responsibilities</p>
       <ol class="mt-4 ml-8 text-xl list-decimal">
@@ -122,8 +119,7 @@
           and the client has authorized, directed, or allowed the RipplePop contractor to work such premium work time.
           The client's special billing rate for premium hours will be a flat fee of $50 an hour for any overtime,
           holiday work, or weekend work that falls outside of the standard hours of the employment agreement.</li>
-        <li>You have read and agree that you understand our <a href="/refunds" class="text-blue-500"
-            target="_blank">Refund Policy</a> and how it may relate to your particular product choice.</li>
+        <li>You have read and agree that you understand our <a href="/refunds" class="text-blue-500" target="_blank">Refund Policy</a> and how it may relate to your particular product choice.</li>
         <li>All RipplePop contractors are subject to RipplePop's standard USA holidays and days off assigned by
           RipplePop.</li>
         <li>If the client uses the services of any RipplePop contractor as its direct employee, as an independent
@@ -133,8 +129,7 @@
         <li>If your payment is late or overdue, we will give you up to 3 business days of additional service while you
           finalize your payment. If your payment does not arrive within 3 business days of it being overdue, your plan
           will be paused and all work will halt until you have made your payment current.</li>
-        <li>If you ever wish to change the plan you are on, you can contact us: <a href="mailto:hello@ripplepop.com"
-            class="text-blue-500">hello@ripplepop.com</a>. Changes to your plan often involve a pro-ration of charges
+        <li>If you ever wish to change the plan you are on, you can contact us: <a href="mailto:hello@ripplepop.com" class="text-blue-500">hello@ripplepop.com</a>. Changes to your plan often involve a pro-ration of charges
           but can be handled on an individual basis depending on the scenario. You are allowed to upgrade/downgrade your
           service once per month with an active plan.</li>
       </ol>
@@ -199,8 +194,7 @@
         delay is due to labor disputes, strikes, fire, riot, war, terrorism, acts of God, or any other causes beyond the
         control of the nonperforming party.<br /><br />
 
-        If you have a question about any of the Terms of Service, please contact our Support team: <a
-          href="mailto:hello@ripplepop.com" class="text-blue-500">hello@ripplepop.com</a>.
+        If you have a question about any of the Terms of Service, please contact our Support team: <a href="mailto:hello@ripplepop.com" class="text-blue-500">hello@ripplepop.com</a>.
 
       </p>
       <p class="mt-8 text-2xl text-gray-900 graphik-bold">Legal Fees</p>
@@ -224,9 +218,8 @@
         <a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
       </div>
       <div class="mt-8 md:order-1 md:mt-0">
-        <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;"
-            class="mx-auto md:mx-0"></a>
-        <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2023 RipplePop, LLC</p>
+        <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;" class="mx-auto md:mx-0"></a>
+        <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2024 RipplePop, LLC</p>
         <p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made in
           Chicago</p>
       </div>
@@ -237,6 +230,5 @@
   <script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
   <!-- / Fathom -->
   <!-- Helpscout Beacon -->
-  <script
-    type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
+  <script type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
   <script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>

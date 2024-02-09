@@ -40,17 +40,14 @@
     <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" class="md:w-64 w-36 h-auto"></a>
     <div class="text-lg">
       <!-- <a href="#pricing">Pricing</a> -->
-      <a href="https://calendly.com/ripplepop/call" target="_blank"
-        class="rounded-md bg-sky-500 px-3.5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-sky-400">Book a
+      <a href="https://calendly.com/ripplepop/call" target="_blank" class="rounded-md bg-sky-500 px-3.5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-sky-400">Book a
         Call</a>
     </div>
   </header>
   <div class="container flex mx-auto mt-24">
     <div class="w-10/12 pt-12 pb-32 mx-auto md:w-7/12">
-      <a href="https://www.iubenda.com/privacy-policy/24613854" class="iubenda-white iubenda-embed iub-body-embed"
-        title="Privacy Policy">Privacy Policy</a>
-      <script
-        type="text/javascript">(function (w, d) { var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s, tag); }; if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; } })(window, document);</script>
+      <a href="https://www.iubenda.com/privacy-policy/24613854" class="iubenda-white iubenda-embed iub-body-embed" title="Privacy Policy">Privacy Policy</a>
+      <script type="text/javascript">(function (w, d) { var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s, tag); }; if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; } })(window, document);</script>
     </div>
   </div>
   <footer class="bg-gray-100 border-t-2 border-gray-300 border-solid">
@@ -61,9 +58,8 @@
         <a href="mailto:hello@ripplepop.com" class="text-lg leading-relaxed text-gray-900">Contact Us</a>
       </div>
       <div class="mt-8 md:order-1 md:mt-0">
-        <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;"
-            class="mx-auto md:mx-0"></a>
-        <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2023 RipplePop, LLC</p>
+        <a href="/"><img src="img/ripplepop-logo.svg" alt="RipplePop Logo" style="width: 200px;" class="mx-auto md:mx-0"></a>
+        <p class="leading-5 text-center text-gray-500 md:text-left">&copy; 2015-2024 RipplePop, LLC</p>
         <p class="text-sm leading-relaxed tracking-tight text-center text-gray-600 md:text-left">💙 Proudly Made in
           Chicago</p>
       </div>
@@ -74,6 +70,5 @@
   <script src="https://cdn.usefathom.com/script.js" data-site="XOYLEFNZ" defer></script>
   <!-- / Fathom -->
   <!-- Helpscout Beacon -->
-  <script
-    type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
+  <script type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
   <script type="text/javascript">window.Beacon('init', 'd51e6ea7-8f11-4479-abc7-7cda473da8cf')</script>
